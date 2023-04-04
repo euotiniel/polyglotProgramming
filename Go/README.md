@@ -1,11 +1,9 @@
-<h1 align="center">Python</h1>
+<h1 align="center">Go</h1>
 
-<img src="./assets/python.jpg" alt="Python" />
+<img src="./assets/" alt="Golang" />
 
-<p>🐍 Python é uma linguagem de programação interpretada, de alto nível e propósito geral criada por Guido van Rossum em 1991. </p>
-<p>O nome "Python" foi dado em homenagem ao grupo de comédia britânico Monty Python, do qual o criador era um grande fã.</p>
-<p>Ao longo dos anos, Python ganhou popularidade por ser fácil de usar, ter uma sintaxe clara e intuitiva, e uma grande quantidade de recursos prontos para uso.</p>
-<p>Python é uma linguagem poderosa que pode ser usada para uma ampla variedade de tarefas, desde a criação de pequenos scripts até a implementação de grandes projetos complexos. Com sua grande quantidade de bibliotecas prontas para uso, Python facilita o desenvolvimento de projetos.</p>
+<p>Go (ou Golang) é uma linguagem de programação de código aberto criada pela Google em 2009 por Robert Griesemer, Rob Pike e Ken Thompson. O nome "Go" foi escolhido para ser curto, fácil de digitar e memorizar.</p>
+<p>Go é uma linguagem compilada, fortemente tipada, que visa tornar a programação mais eficiente e fácil, com um foco em concorrência e escalabilidade. Ela é projetada para ser simples e clara, com uma sintaxe legível e fácil de entender.</p>
 
 ## 📚 Índice
 
@@ -21,21 +19,17 @@
 
 ## 🧰 Para que serve?
 
-<p>Python é uma linguagem de programação amplamente utilizada em várias áreas, incluindo:</p>
+<p>Go é uma linguagem que pode ser usada em muitas áreas diferentes, incluindo:</p>
 
-+ <strong>Desenvolvimento web:</strong> muitos frameworks web, como o Django e o Flask, são escritos em Python, tornando-o uma escolha popular para o desenvolvimento de aplicativos web.
++ <strong>Desenvolvimento de sistemas:</strong> Go é uma boa escolha para desenvolver aplicativos de sistema, como ferramentas de linha de comando e sistemas operacionais.
 
-+ <strong>Ciência de dados:</strong> Python é uma das principais linguagens usadas em ciência de dados, graças às suas bibliotecas que permitem aos cientistas de dados trabalhar facilmente com grandes conjuntos de dados, realizar análises estatísticas e criar visualizações.
++ <strong>Desenvolvimento web:</strong> Go tem muitos frameworks e bibliotecas que facilitam o desenvolvimento de aplicativos web escaláveis e de alto desempenho, como o popular framework web chamado "gin".
 
-+ <strong>Aprendizado de máquina:</strong> Python é uma das principais linguagens usadas em aprendizado de máquina e inteligência artificial, com bibliotecas que permitem aos desenvolvedores criar redes neurais e modelos de aprendizado de máquina.
++ <strong>Desenvolvimento de jogos:</strong> Go tem bibliotecas de gráficos 2D e 3D que podem ser usadas para criar jogos simples e complexos.
 
-+ <strong>Automação de tarefas:</strong> Python é frequentemente usado para automatizar tarefas repetitivas, como coletar informações da web, enviar e-mails, manipular arquivos e muito mais.
++ <strong>Ciência de dados</strong> Go tem várias bibliotecas para processamento de dados, visualização e aprendizado de máquina, como a biblioteca "Gonum".
 
-+ <strong>Segurança cibernética:</strong> Python é frequentemente usado em segurança cibernética para criar scripts de detecção e análise de ameaças.
-
-+ <strong>Jogos:</strong> Python é usado para criar jogos e engines de jogos, como o Pygame.
-
-> Em resumo, Python é uma linguagem de programação versátil que pode ser usada em uma ampla variedade de aplicativos e projetos.
+> Em resumo, Go é uma linguagem de programação que pode ser usada em uma ampla variedade de aplicativos e projetos.
 
 ## 💻 Instalação
 
