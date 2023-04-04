@@ -3,16 +3,11 @@
 <p>Exercícios populares resolvidos em várias linguagens de programação</p>
 
 ## 📚 Índice
-+ [Descrição](#descrição)
-+ + [Objectivo](#objectivo)
-+ + [Explicação do nome](#explicação-do-nome)
-+ + [Estrutura das pastas](#estrutura-das-pastas)
-+ [Linguagens incluídas](#linguagens-incluídas)
-+ [Como contribuir](#como-contribuir)
-+ [VSCode](#vscode)
-+ + [Instalação](#instalação)
-+ [Créditos](#créditos)
-+ + [Redes sociais](#redes-sociais)
++ [Descrição](#📝-descrição)
++ [Linguagens incluídas](#💻-linguagens-incluídas)
++ [Como contribuir](#🚀-como-contribuir)
++ [VSCode](#🔧-vscode)
++ [Créditos](#👨🏽‍💼-créditos)
 
 ## 📝 Descrição
 
