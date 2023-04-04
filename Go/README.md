@@ -45,7 +45,7 @@
 
 Para instalar o Python no Windows, siga os seguintes passos:
 
-1. Acesse o site oficial do Python <a href="https://www.python.org/downloads/" target="_blank">aqui</a> e baixe a versão mais recente do Python. Certifique-se de baixar a versão que corresponde ao seu sistema operacional e à sua arquitetura (32 bits ou 64 bits);
+1. Acesse o site oficial do Python em https://www.python.org/downloads/ e baixe a versão mais recente do Python. Certifique-se de baixar a versão que corresponde ao seu sistema operacional e à sua arquitetura (32 bits ou 64 bits);
 
 2. Após o download, execute o arquivo .exe que foi baixado e siga as instruções do instalador.
 
@@ -92,7 +92,7 @@ Pronto, agora você tem o Python instalado no seu Linux! Note que, dependendo da
 
 Para instalar o Python no Mac, siga os seguintes passos:
 
-1. Acesse o site oficial do Python <a href="https://www.python.org/downloads/" target="_blank">aqui</a>  e baixe a versão mais recente do Python. Certifique-se de baixar a versão que corresponde ao seu sistema operacional e à sua arquitetura (32 bits ou 64 bits).
+1. Acesse o site oficial do Python em https://www.python.org/downloads/ e baixe a versão mais recente do Python. Certifique-se de baixar a versão que corresponde ao seu sistema operacional e à sua arquitetura (32 bits ou 64 bits).
 
 2. Após o download, abra o arquivo .dmg que foi baixado e execute o instalador.
 
@@ -141,24 +141,24 @@ python index.py
 
 Se tudo estiver correto, o VSCode deve exibir a mensagem "Hello, world!" no terminal.
 
-> Agora você sabe como programar em Python no VSCode! É possível configurar várias opções de configuração e depuração no VSCode para tornar o seu processo de desenvolvimento ainda mais fácil e produtivo.
+> agora você sabe como programar em Python no VSCode! É possível configurar várias opções de configuração e depuração no VSCode para tornar o seu processo de desenvolvimento ainda mais fácil e produtivo.
 
 ## 🌐 Online code
 
 <p>Existem várias plataformas online que permitem programar em Python sem precisar instalar um ambiente de desenvolvimento integrado (IDE) localmente. Algumas opções populares são:</p>
 
-+ <a href="https://www.pythonanywhere.com/" target="_blank">PythonAnywhere</a> 
++ <a href="https://www.pythonanywhere.com/">PythonAnywhere</a> 
 
-+ <a href="https://repl.it/languages/python3" target="_blank">Repl.it</a>
-+ <a href="https://colab.research.google.com/" target="_blank">Google Colab</a>
-+ <a href="https://jupyter.org/try" target="_blank">Jupyter Notebook</a>
++ <a href="https://repl.it/languages/python3">Repl.it</a>
++ <a href="https://colab.research.google.com/">Google Colab</a>
++ <a href="https://jupyter.org/try">Jupyter Notebook</a>
 
 Cada uma dessas plataformas tem suas próprias vantagens e desvantagens, então é importante escolher a que melhor se adequa às suas necessidades. Algumas delas têm recursos avançados para programação científica, enquanto outras são mais adequadas para iniciantes ou para programação web.
 
 
 ## 📖 Guia de estudo
 
-Existem muitos recursos disponíveis para quem deseja aprender Python, incluindo a<a href="https://docs.python.org/pt-br/3/tutorial/index.html" target="_blank">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
+Existem muitos recursos disponíveis para quem deseja aprender Python, incluindo <a href="https://docs.python.org/pt-br/3/tutorial/index.html">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
 
 Índice de estudo da linguagem Python:
 
@@ -230,11 +230,11 @@ Python possui uma ampla variedade de bibliotecas e frameworks que facilitam o de
 
 Alguns dos projetos populares criados em Python incluem:
 
-+ <a href="https://open.spotify.com/?" target="_blank">Spotify</a> - um serviço de streaming de música muito popular que utiliza Python para gerenciar seus recursos.
-+ <a href="https://www.youtube.com/" target="_blank">YouTube</a> - A plataforma de compartilhamento de vídeos mais popular do mundo utiliza Python em grande escala para gerenciamento de tráfego, armazenamento e processamento de dados.
-+ <a href="https://www.netflix.com/ao/" target="_blank">Netflix</a> - um dos serviços de streaming de vídeo mais populares do mundo, que usa Python para gerenciar suas operações e dados.
-+ <a href="https://www.instagram.com/" target="_blank">Instagram</a> - um aplicativo de compartilhamento de fotos e vídeo muito popular que foi construído com Python e Django.
-+ <a href="https://www.dropbox.com/" target="_blank">Dropbox</a> - um serviço de armazenamento em nuvem que usa Python para gerenciar suas operações.
++ <a href="https://open.spotify.com/?">Spotify</a> - um serviço de streaming de música muito popular que utiliza Python para gerenciar seus recursos.
++ <a href="https://www.youtube.com/">YouTube</a> - A plataforma de compartilhamento de vídeos mais popular do mundo utiliza Python em grande escala para gerenciamento de tráfego, armazenamento e processamento de dados.
++ <a href="https://www.netflix.com/ao/">Netflix</a> - um dos serviços de streaming de vídeo mais populares do mundo, que usa Python para gerenciar suas operações e dados.
++ <a href="https://www.instagram.com/">Instagram</a> - um aplicativo de compartilhamento de fotos e vídeo muito popular que foi construído com Python e Django.
++ <a href="https://www.dropbox.com/">Dropbox</a> - um serviço de armazenamento em nuvem que usa Python para gerenciar suas operações.
 
 ## 👥 Comunidade
 
@@ -250,9 +250,9 @@ Aqui estão alguns links para algumas das principais comunidades Python no Githu
 
 Aqui estão alguns perfis e hashtags que você pode seguir para se manter atualizado sobre as novidades da comunidade Python no Twitter:
 
-+ <a href="https://twitter.com/ThePSF" target="_blank">@ThePSF</a> - conta oficial da Python Software Foundation, que promove o desenvolvimento e a adoção da linguagem Python em todo o mundo.
-+ <a href="https://twitter.com/pybites" target="_blank">@pybites</a> - perfil que compartilha dicas e desafios relacionados à linguagem Python, além de promover a comunidade de desenvolvedores em torno da linguagem.
-+ <a href="https://twitter.com/realpython" target="_blank">RealPython</a> - perfil que compartilha tutoriais, dicas e recursos para desenvolvedores Python, além de promover a comunidade Python em geral.
++ <a href="https://twitter.com/ThePSF">@ThePSF</a> - conta oficial da Python Software Foundation, que promove o desenvolvimento e a adoção da linguagem Python em todo o mundo.
++ <a href="https://twitter.com/pybites">@pybites</a> - perfil que compartilha dicas e desafios relacionados à linguagem Python, além de promover a comunidade de desenvolvedores em torno da linguagem.
++ <a href="https://twitter.com/realpython">RealPython</a> - perfil que compartilha tutoriais, dicas e recursos para desenvolvedores Python, além de promover a comunidade Python em geral.
 
 ## 👨🏽‍💼 Créditos
 
@@ -260,7 +260,7 @@ Aqui estão alguns perfis e hashtags que você pode seguir para se manter atuali
 
 ### 📱 Redes sociais
 
-+ <a href="https://www.linkedin.com/in/otoniel-emanuel-b80727261/" target="_blank">LinkedIn</a>
-+ <a href="https://www.instagram.com/eusouootis_" target="_blank">Instagram</a>
++ <a href="https://www.linkedin.com/in/otoniel-emanuel-b80727261/">LinkedIn</a>
++ <a href="https://www.instagram.com/eusouootis_">Instagram</a>
 
 

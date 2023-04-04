@@ -31,7 +31,7 @@
 
 Para este repositório, foram escolhidas 5 linguagens de programação inicialmente. São elas:
 
-+ <a href="">Python</a>
++ <a href="https://github.com/otonielemanuel/polyglotProgramming/tree/main/Python">Python</a>
 + <a href="">TypeScript</a>
 + <a href="">Java</a>
 + <a href="">Go</a>
