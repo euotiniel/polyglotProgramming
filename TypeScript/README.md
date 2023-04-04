@@ -26,7 +26,7 @@
 
 + <strong>Desenvolvimento Mobile:</strong> O TypeScript pode ser usado em desenvolvimento móvel, especialmente em conjunto com o framework Ionic, que permite o desenvolvimento de aplicativos móveis híbridos com o uso de web technologies como HTML, CSS e JavaScript.
 
-+ <strong>•	Desenvolvimento de Desktop:</strong> O TypeScript pode ser usado para desenvolvimento de aplicativos de desktop, como o uso do Electron que permite criar aplicativos desktop multiplataforma usando tecnologias da web.
++ <strong>Desenvolvimento de Desktop:</strong> O TypeScript pode ser usado para desenvolvimento de aplicativos de desktop, como o uso do Electron que permite criar aplicativos desktop multiplataforma usando tecnologias da web.
 
 + <strong>Desenvolvimento de Jogos:</strong> O TypeScript também pode ser usado para desenvolvimento de jogos. O framework Phaser é um exemplo de framework de jogos que permite o uso de TypeScript.
 

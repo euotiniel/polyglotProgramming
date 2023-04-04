@@ -1,7 +1,7 @@
 <h1 align="center">Ruby</h1>
 
 <p align="center">
-<img src="./assets/" alt="Ruby" height="200"  />
+<img src="./assets/ruby.png" alt="Ruby" height="200"  />
 </p>
 
 <p>Ruby é uma linguagem de programação de código aberto criada em 1995 pelo programador japonês Yukihiro Matsumoto. O nome "Ruby" para a linguagem de programação não tem uma explicação clara e oficial. Acredita-se que Yukihiro Matsumoto escolheu o nome Ruby porque ele queria um nome que fosse agradável de se ouvir e que fosse fácil de lembrar.</p>
@@ -26,202 +26,227 @@
 
 <p>Ruby é uma linguagem de programação versátil que pode ser usada em uma variedade de áreas e domínios de programação.</p>
 
-+ <strong>Desenvolvimento web:</strong> TypeScript é frequentemente usado para desenvolvimento de aplicativos da Web, incluindo sites e aplicativos web complexos. O Angular, React e Vue.js são alguns dos frameworks web populares que usam TypeScript.
++ <strong>Desenvolvimento web:</strong> Ruby é amplamente utilizado para o desenvolvimento web, principalmente por meio do framework Ruby on Rails. 
 
-+ <strong>Desenvolvimento Mobile:</strong> O TypeScript pode ser usado em desenvolvimento móvel, especialmente em conjunto com o framework Ionic, que permite o desenvolvimento de aplicativos móveis híbridos com o uso de web technologies como HTML, CSS e JavaScript.
++ <strong>Automação de tarefas: </strong> Ruby é frequentemente usado para criar scripts e programas de automação de tarefas, pois é uma linguagem fácil de aprender e usar. 
 
-+ <strong>•	Desenvolvimento de Desktop:</strong> O TypeScript pode ser usado para desenvolvimento de aplicativos de desktop, como o uso do Electron que permite criar aplicativos desktop multiplataforma usando tecnologias da web.
++ <strong>Processamento de dados: </strong> Ruby é uma linguagem de programação muito útil para processamento de dados, especialmente em conjunto com outras ferramentas como o Apache Hadoop. Com Ruby, você pode facilmente processar grandes quantidades de dados para análise e insights.
 
-+ <strong>Desenvolvimento de Jogos:</strong> O TypeScript também pode ser usado para desenvolvimento de jogos. O framework Phaser é um exemplo de framework de jogos que permite o uso de TypeScript.
++ <strong>Jogos e entretenimento:</strong> Ruby é usado em jogos e entretenimento, graças a bibliotecas como o Gosu, que permite criar jogos 2D e 3D usando Ruby.
 
-+ <strong>Internet das Coisas (IoT):</strong> O TypeScript também pode ser usado para desenvolvimento de soluções IoT. O Arduino, por exemplo, suporta o uso de TypeScript para desenvolvimento de aplicações.
-
-> Em resumo, o TypeScript é uma linguagem de programação moderna, que traz benefícios como segurança, tipagem estática, melhorias na sintaxe, entre outros recursos que ajudam no desenvolvimento de aplicações complexas.
++ <strong>Aplicativos de desktop: </strong> Ruby é usado para criar aplicativos de desktop usando ferramentas como o Shoes, que oferece uma interface gráfica do usuário (GUI) fácil de usar para criar aplicativos de desktop.
 
 ## 💻 Instalação
 
-<p>O TypeScript pode ser instalado em qualquer sistema operacional que suporte o Node.js. Para instalar o TypeScript, primeiro é necessário instalar o Node.js em seu sistema.</p>
-<p>O Node.js é um ambiente de tempo de execução de código aberto que permite a execução de JavaScript fora do navegador, no servidor ou na linha de comando.</p>
-<strong>Esta instalação é válida para o Windows, Linux e macOS.</strong>
+<p>Aqui estão as etapas básicas para instalar o Ruby em um sistema operacional Windows, macOS ou Linux:</p>
 
+<strong>Windows</strong>
 
-1. <p>Instale o Node.js acessando o <a href="" target="_blank">site oficial</a> e escolher a versão correspondente ao seu sistema operacional.</p>
+1. Baixe o instalador Ruby mais recente para Windows no <a href="https://rubyinstaller.org/downloads/">site oficial.</a>
 
-Para verificar a instalação do node, abra o seu prompt de comando e digite:
+2. Execute o instalador e siga as instruções na tela para concluir a instalação.
 
-```prompt
-node –v
+3. Adicione o caminho de instalação do Ruby ao PATH do sistema operacional.
+
+4. Verifique se a instalação foi bem-sucedida, abra o prompt de comando do Windows e digite o comando:
+
+```ruby
+ruby -v
 ```
 
-> Isso imprimirá a versão do Node instalada em seu sistema.
+> Se tudo estiver correto, o prompt retornará a versão do Ruby instalada. Daí é só codar!
 
-2. Depois de instalar e verificar o Node.js, digite o seguinte comando para instalar o TypeScript globalmente:
+<strong>Linux</strong>
 
-```
-npm install -g typescript
-```
-3. Verifique se a instalação foi bem-sucedida. Basta digitar o seguinte comando no terminal:
+1. Abra o terminal e digite o seguinte comando para instalar o Ruby:
 
 ```
-tsc --version
+sudo apt-get install ruby-full
+```
+2. Verifique se a instalação foi bem-sucedida, abra um terminal e digite o comando:
+
+```
+ruby –v
+```
+> Se tudo estiver correto, o terminal retornará a versão do Ruby instalada. Daí é só codar!
+
+<strong>macOS</strong>
+
+1. Instale o gerenciador de pacotes Homebrew, caso ainda não o tenha instalado, digitando o seguinte comando em um terminal:
+
+```
+/bin/bash -c "$(curl –fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-> Isso imprimirá a versão do TypeScript instalada em seu sistema.
+2. Instale o Ruby usando o Homebrew digitando o seguinte comando em um terminal:
 
-Com o TypeScript instalado, agora é possível criar projetos TypeScript e compilar arquivos TypeScript em JavaScript para executá-los em um ambiente Node.js ou em um navegador da web.
+```
+brew install ruby
+```
+
+3. Verifique se a instalação foi bem-sucedida, abra um terminal e digite o comando:
+
+```
+ruby -v
+```
+> Se tudo estiver correto, o terminal retornará a versão do Ruby instalada. Daí é só codar.
+
+<p>Existem outras maneiras de instalar o Ruby, dependendo do sistema operacional e do gerenciador de pacotes que você está usando. Consulte a documentação oficial do Ruby para obter mais informações e opções de instalação.</p>
 
 ## 🔧 VSCode
 
-Tendo o TypeScript instalado na sua máquina, para programar no Visual Studio Code, siga os seguintes passos:
+Tendo o Ruby instalado na sua máquina, para programar no Visual Studio Code, siga os seguintes passos:
 
-1. Inicie o VS Code e crie um novo projeto ou abra um existente.
+1. Instale a extensão "Ruby" do VS Code. Para fazer isso, abra o VS Code e pressione "Ctrl+Shift+X" ou clique no ícone de extensão no canto esquerdo da barra lateral. Pesquise por "Ruby" e instale a extensão com o nome "Ruby" desenvolvida por Peng Lv.
 
-2. Crie um arquivo <strong>tsconfig.json</strong> na raiz do projeto e adicione as seguintes linhas:
-
-```json
-{
-  "compilerOptions": {
-    "target": "es6",
-    "module": "commonjs",
-    "sourceMap": true
-  },
-  "include": ["src/**/*"]
-}
-```
-
-> Este arquivo pode ser criado automáticamente.
-> Para criar o arquivo tsconfig.json automaticamente em um projeto TypeScript, você pode executar o seguinte comando no terminal, dentro da pasta do seu projeto:
-> 
+2. Crie um novo projeto Ruby usando o comando:
 
 ```
-tsc --init
+rails new nome-do-seu-projeto
 ```
-> Esse comando irá gerar um arquivo tsconfig.json com as configurações padrão do TypeScript. Você pode então editar esse arquivo conforme necessário para atender às necessidades específicas do seu projeto.
 
-3. Crie uma pasta <strong>src</strong> e lá crie o seu arquivos TypeScript (com a extensão .ts) na pasta do seu projeto e o VS Code os reconhecerá automaticamente.
+Este comando irá criar um novo projeto Ruby na pasta "nome-do-seu-projeto".
 
-4. Para compilar o código TypeScript em JavaScript, basta abrir o terminal no VS Code e digitar o comando 'tsc'. Isso irá compilar todos os arquivos TypeScript na pasta 'src' em arquivos JavaScript na pasta 'dist'.
+Abra a pasta do seu projeto no VS Code usando o comando:
 
-> Com essas etapas, você deve estar pronto para começar a programar em TypeScript no VS Code!
+```
+cd nome-do-seu-projeto
+``` 
+Isso irá abrir o VS Code com a pasta do seu projeto.
+
+3. Para executar o seu código Ruby, você pode usar o terminal integrado do VS Code pressionando "Ctrl+Shift+". Digite ruby nome-do-seu-arquivo.rb` para executar o seu código Ruby.
+
+> Com essas etapas, você deve estar pronto para começar a programar em Ruby no VS Code!
 
 ## 🌐 Online code
 
-<p>Existem vários editores de TypeScript online disponíveis, cada um com suas próprias vantagens e desvantagens. Alguns dos editores mais populares são:</p>
+<p>Existem várias plataformas online para se programar em Ruby. Algumas das mais populares são:</p>
 
-+ <a href="https://www.typescriptlang.org/play/" target="_blank">TypeScript Playground</a> 
-+ <a href="https://replit.com/languages/typescript" target="_blank">Repl.it</a>
-+ <a href="https://codesandbox.io/" target="_blank">CodeSandbox</a>
++ <a href="https://rubymonk.com/" target="_blank">RubyMonk</a> 
++ <a href="https://repl.it/languages/ruby" target="_blank">Repl.it</a>
++ <a href="https://www.hackerrank.com/domains/ruby" target="_blank">HackerRank</a>
 
 ## 📖 Guia de estudo
 
-Existem muitos recursos disponíveis para quem deseja aprender TypeScript, incluindo a <a href="https://www.typescriptlang.org/pt/docs/" target="_blank">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
+Existem muitos recursos disponíveis para quem deseja aprender Ruby. Se você é um iniciante em Ruby, aqui está um índice sugerido de tópicos de estudo:
 
-Se você é um iniciante em TypeScript, aqui está um índice sugerido de tópicos de estudo:
+<strong>Introdução ao Ruby</strong>
++	Escreva seu primeiro "Olá, mundo!" programa em Ruby
++	Aprenda sobre a sintaxe básica do Ruby, incluindo variáveis, tipos de dados, estruturas de controle de fluxo e funções
 
-<strong>Introdução ao TypeScript</strong>
-+	O que é TypeScript
-+	Principais recursos e benefícios do TypeScript
-+	Diferenças entre TypeScript e JavaScript
+<strong>Programação orientada a objetos</strong>
++	Entenda os conceitos fundamentais da programação orientada a objetos, como classes, objetos, métodos e herança
++	Aprenda a criar e usar classes em Ruby, definir métodos e instanciar objetos
++	Explore conceitos avançados de orientação a objetos, como polimorfismo, encapsulamento e interfaces
 
-<strong>Sintaxe Básica</strong>
-+	Variáveis e tipos de dados básicos (number, string, boolean)
-+	Arrays e tuplas
-+	Enumerações (enums)
-+	Funções e tipos de função
-+	Interfaces
+<strong>Bibliotecas e frameworks Ruby</strong>
++	Aprenda sobre as bibliotecas padrão do Ruby e como usá-las em seus programas
++	Explore os frameworks Ruby populares, como o Ruby on Rails para desenvolvimento web, o Sinatra para aplicativos web mais leves e o RSpec para testes automatizados
 
+<strong>Tópicos avançados em Ruby</strong>
++	Aprenda sobre os recursos mais avançados do Ruby, como blocos, módulos e mixins
++	Explore como usar Ruby para trabalhar com bancos de dados, processamento de dados e desenvolvimento de aplicativos móveis
++	Aprenda sobre tópicos de desempenho e otimização em Ruby
 
-<strong>Programação Orientada a Objeto (POO) em TypeScript</strong>
-+	Classes e propriedades
-+	Métodos e construtores
-+	Herança e polimorfismo
-+	Modificadores de acesso
+<strong>Projetos em Ruby</strong>
++	Escolha um projeto de sua preferência e comece a desenvolver em Ruby, aplicando tudo que aprendeu anteriormente, como: gerador de senha, conversor de moedas, blog, etc
++	Pratique escrevendo testes automatizados para seus projetos
++	Procure projetos open source em Ruby e contribua com o código, documentação ou testes
 
-
-<strong>Avançando no TypeScript</strong>
-+	Tipos genéricos
-+	Union Types
-+	Type Aliases
-+	Namespaces e módulos
-+	Decorators
-
-<strong>Bibliotecas e Frameworks em TypeScript</strong>
-+	Angular
-+	React
-+	Vue.js
-
-<strong>Testando em TypeScript</strong>
-+	Testes unitários com Jest
-
-<strong>Empacotamento e compilação</strong>
-+	Empacotando com Webpack
-+	Compilando com tsc (TypeScript Compiler)
-
-<strong>Melhores práticas de programação em TypeScript</strong>
-+	Utilizando os tipos de dados corretamente
-+	Evitando o any type
-+	Escrevendo código legível e sustentável
-
-
-<strong>Recursos adicionais</strong>
-+	TypeScript Playground
-+	Comunidade TypeScript
-+	Livros e cursos recomendados
-
-Este é apenas um guia básico para iniciantes. À medida que você progride em seus estudos, você pode explorar outros tópicos mais avançados, bibliotecas e ferramentas que melhor se adaptem às suas necessidades. Boa sorte!
+Espero que este índice lhe dê uma ideia de como começar a estudar Ruby e o ajude a avançar em sua jornada de aprendizado!
 
 ## 🛠️  Ferramentas e bibliotecas
 
-Existem várias ferramentas e bibliotecas disponíveis para desenvolvimento com TypeScript. Aqui estão algumas delas, separadas por áreas:
+Existem várias ferramentas e bibliotecas disponíveis para desenvolvedores que programam em Ruby. Veja a lista de algumas das mais populares separadas por áreas de uso:
 
-<strong>Frameworks Web</strong>
+<strong>Desenvolvimento Web</strong>
++	Ruby on Rails
++	Sinatra
++	Hanami
++	Grape
++	Padrino
++	Cuba
++	Ramaze
 
-+ Angular: é um framework web para desenvolvimento de aplicações SPA (Single Page Application) que utiliza TypeScript como sua linguagem principal.
-+ React: é uma biblioteca JavaScript para construção de interfaces de usuário que pode ser usada em conjunto com TypeScript para tornar o desenvolvimento mais seguro e escalável.
-+	Vue.js: é um framework JavaScript para construção de interfaces de usuário progressivas e é compatível com TypeScript.
+<strong>Gerenciamento de Pacotes e Dependências</strong>
++	RubyGems
++	Bundler
++	Gemnasium
++	Dependabot
++	Greenkeeper
 
-<strong>Bibliotecas</strong>
-+	Lodash: é uma biblioteca JavaScript de utilitários que fornece funções para manipulação de arrays, objetos, strings, entre outros, e possui tipos para TypeScript.
-+	Axios: é uma biblioteca JavaScript para realizar requisições HTTP que também possui tipos para TypeScript.
-+	Moment.js: é uma biblioteca JavaScript para manipulação de datas e horários que possui tipos para TypeScript.
-+	TypeORM: é uma biblioteca JavaScript/TypeScript para mapeamento objeto-relacional (ORM) que pode ser usada com vários bancos de dados.
+<strong>Testes Automatizados</strong>
++	RSpec
++	Minitest
++	Cucumber
++	Capybara
++	Selenium WebDriver
++	SitePrism
 
-Essas são apenas algumas das ferramentas e bibliotecas disponíveis para desenvolvimento com TypeScript. Há muitas outras disponíveis e você pode escolher aquelas que melhor atendem às suas necessidades específicas.
+
+<strong>Mapeamento Objeto-Relacional (ORM)</strong>
++	ActiveRecord
++	Sequel
++	DataMapper
++	ROM
+
+<strong>Processamento de Background</strong>
++	Sidekiq
++	DelayedJob
++	Resque
++	Sneakers
++	Shoryuken
+
+<strong>Análise de Dados e Visualização</strong>
++	Daru
++	Statsample
++	Gnuplot
++	Gruff
++	Rubyvis
+
+<strong>Manipulação de Imagem</strong>
++	MiniMagick
++	RMagick
++	ChunkyPNG
++	Vips
+
+<strong>Automação e Scripting</strong>
++	Thor
++	Rake
++	Capistrano
++	Shell Ruby
+
+Essas são apenas algumas das muitas ferramentas e bibliotecas disponíveis em Ruby, mas elas cobrem uma variedade de áreas comuns de desenvolvimento.
 
 ## 🚀 Projetos populares
 
-Veja uma lista com alguns projectos famosos que usam ou podem usar TypeScript em seu código:
+Ruby é uma linguagem de programação popular e muitas empresas de sucesso usam ou já usaram Ruby para desenvolver seus projetos. Aqui estão alguns exemplos de projetos populares e empresas que usam Ruby:
 
-+ <a href="https://soundcloud.com/" target="_blank">SoundCloud</a> - uma plataforma de compartilhamento de música que usa TypeScript em algumas partes do seu código front-end.
++ <a href="" target="_blank">GitHub</a> - a plataforma de gerenciamento de código Git, que é a base do GitHub, é escrita em Ruby.
 
-+ <a href="https://pt.airbnb.com/?_set_bev_on_new_domain=1680617876_NzllMzc0ZDlhZTVi" target="_blank">Airbnb</a> - o Airbnb usa TypeScript em grande parte de seu código, incluindo em sua plataforma web e em suas ferramentas de desenvolvimento interno.
++ <a href="" target="_blank">Kickstarter</a> - o site de financiamento coletivo é construído usando Ruby on Rails e outras tecnologias.
 
-+ <a href="https://pt.wix.com/" target="_blank">Wix</a> - plataforma de criação de sites. Wix usa TypeScript em grande parte de seu código front-end e back-end.
++ <a href="" target="_blank">Twitch</a> - a plataforma de streaming ao vivo de jogos e conteúdo criado por usuários é construída com Ruby on Rails e outras tecnologias.
 
-+ <a href="https://www.microsoft.com/pt-br/microsoft-teams/log-in" target="_blank">Microsoft Teams</a> - o Microsoft Teams, uma plataforma de comunicação empresarial, é construído com TypeScript.
-
-+ <a href="https://asana.com/pt" target="_blank">Asana</a> - a plataforma de gerenciamento de tarefas Asana usa TypeScript em seu front-end e back-end.
++ <a href="" target="_blank">Twitter</a> - embora o Twitter tenha começado com Ruby, hoje usa principalmente Scala e Java, mas ainda usa alguns componentes em Ruby, como o framework de web Ruby on Rails.
 
 ## 👥 Comunidade
 
-A comunidade TypeScript também é bastante ativa e crescente, especialmente desde que a linguagem foi lançada pela Microsoft em 2012. A comunidade TypeScript é composta por desenvolvedores, usuários e entusiastas de todo o mundo, que colaboram em projetos de código aberto e contribuem para o desenvolvimento da linguagem e de suas ferramentas.
+A comunidade Ruby é uma das mais vibrantes e ativas dentro da comunidade de desenvolvedores. É uma comunidade que valoriza o compartilhamento de conhecimento e apoio mútuo, o que faz com que seja um ótimo lugar para os desenvolvedores Ruby iniciantes e experientes crescerem e desenvolverem suas habilidades.
 
+Aqui estão alguns links para a comunidade Ruby no GitHub:
 
-Aqui estão alguns links para a comunidade TypeScript no GitHub:
++ Ruby: https://github.com/ruby/ruby
++ Rails: https://github.com/rails/rails
++ Sinatra: https://github.com/sinatra/sinatra
++ Hanami: https://github.com/hanami/hanami
 
-+ Repositório oficial do TypeScript: https://github.com/microsoft/TypeScript
+Aqui estão os links dos perfis do Twitter relacionados a Ruby:
 
-+ TypeScript Handbook: https://github.com/microsoft/TypeScript-Handbook
-
-+ Awesome TypeScript: https://github.com/dzharii/awesome-typescript
-
-Aqui estão os links dos perfis do Twitter relacionados a TypeScript:
-
-+ <a href="https://twitter.com/typescript" target="_blank">@typescript</a> 
-
-+ <a href="https://twitter.com/ryan_cavanaugh" target="_blank">@ryan_cavanaugh</a> 
-
-+ <a href="https://twitter.com/ahejlsberg" target="_blank">ahejlsberg</a>
++ Ruby: https://twitter.com/ruby_lang
++ Rails: https://twitter.com/rails
++ RubyGems: https://twitter.com/rubygems
++ Sinatra: https://twitter.com/sinatra
 
 ## 👨🏽‍💼 Créditos
 
