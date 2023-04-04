@@ -222,13 +222,13 @@ Essas são apenas algumas das muitas ferramentas e bibliotecas disponíveis em R
 
 Ruby é uma linguagem de programação popular e muitas empresas de sucesso usam ou já usaram Ruby para desenvolver seus projetos. Aqui estão alguns exemplos de projetos populares e empresas que usam Ruby:
 
-+ <a href="" target="_blank">GitHub</a> - a plataforma de gerenciamento de código Git, que é a base do GitHub, é escrita em Ruby.
++ <a href="https://github.com/" target="_blank">GitHub</a> - a plataforma de gerenciamento de código Git, que é a base do GitHub, é escrita em Ruby.
 
-+ <a href="" target="_blank">Kickstarter</a> - o site de financiamento coletivo é construído usando Ruby on Rails e outras tecnologias.
++ <a href="https://www.kickstarter.com/" target="_blank">Kickstarter</a> - o site de financiamento coletivo é construído usando Ruby on Rails e outras tecnologias.
 
-+ <a href="" target="_blank">Twitch</a> - a plataforma de streaming ao vivo de jogos e conteúdo criado por usuários é construída com Ruby on Rails e outras tecnologias.
++ <a href="https://www.twitch.tv/directory" target="_blank">Twitch</a> - a plataforma de streaming ao vivo de jogos e conteúdo criado por usuários é construída com Ruby on Rails e outras tecnologias.
 
-+ <a href="" target="_blank">Twitter</a> - embora o Twitter tenha começado com Ruby, hoje usa principalmente Scala e Java, mas ainda usa alguns componentes em Ruby, como o framework de web Ruby on Rails.
++ <a href="https://twitter.com/i/flow/login" target="_blank">Twitter</a> - embora o Twitter tenha começado com Ruby, hoje usa principalmente Scala e Java, mas ainda usa alguns componentes em Ruby, como o framework de web Ruby on Rails.
 
 ## 👥 Comunidade
 
