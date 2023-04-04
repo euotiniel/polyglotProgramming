@@ -1,6 +1,6 @@
 <h1 align="center">TypeScript</h1>
 
-<img src="./assets/python.jpg" alt="Python" />
+<img src="./assets/typeScript.png" alt="TypeScript" />
 
 <p>TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft e lançada em 2012. O nome "TypeScript" é derivado do fato de que a linguagem adiciona recursos de tipagem estática ao JavaScript, permitindo que os desenvolvedores especifiquem o tipo de dados das variáveis em seus programas. Ela é um superset da linguagem JavaScript, o que significa que pode ser usado como uma extensão da sintaxe do JavaScript para torná-la mais forte e segura, adicionando recursos como tipagem estática e outras características orientadas a objetos.</p>
 
