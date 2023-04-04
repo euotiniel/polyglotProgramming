@@ -1,11 +1,14 @@
-<h1 align="center">Python</h1>
+<h1 align="center">Ruby</h1>
 
-<img src="./assets/python.jpg" alt="Python" />
+<p align="center">
+<img src="./assets/" alt="Ruby" height="200"  />
+</p>
 
-<p>🐍 Python é uma linguagem de programação interpretada, de alto nível e propósito geral criada por Guido van Rossum em 1991. </p>
-<p>O nome "Python" foi dado em homenagem ao grupo de comédia britânico Monty Python, do qual o criador era um grande fã.</p>
-<p>Ao longo dos anos, Python ganhou popularidade por ser fácil de usar, ter uma sintaxe clara e intuitiva, e uma grande quantidade de recursos prontos para uso.</p>
-<p>Python é uma linguagem poderosa que pode ser usada para uma ampla variedade de tarefas, desde a criação de pequenos scripts até a implementação de grandes projetos complexos. Com sua grande quantidade de bibliotecas prontas para uso, Python facilita o desenvolvimento de projetos.</p>
+<p>Ruby é uma linguagem de programação de código aberto criada em 1995 pelo programador japonês Yukihiro Matsumoto. O nome "Ruby" para a linguagem de programação não tem uma explicação clara e oficial. Acredita-se que Yukihiro Matsumoto escolheu o nome Ruby porque ele queria um nome que fosse agradável de se ouvir e que fosse fácil de lembrar.</p>
+
+<p>A linguagem é projetada para ser fácil de ler e escrever, com uma sintaxe limpa e concisa que permite aos desenvolvedores escreverem programas rapidamente e com menos código.</p>
+
+<p>Uma das características mais distintas de Ruby é sua ênfase em programação orientada a objetos (POO). Em Ruby, tudo é um objeto, desde os tipos de dados básicos, como strings e números, até as funções e métodos. Isso torna a linguagem poderosa e flexível, permitindo que os desenvolvedores criem programas complexos e modulares.</p>
 
 ## 📚 Índice
 
@@ -21,238 +24,204 @@
 
 ## 🧰 Para que serve?
 
-<p>Python é uma linguagem de programação amplamente utilizada em várias áreas, incluindo:</p>
+<p>Ruby é uma linguagem de programação versátil que pode ser usada em uma variedade de áreas e domínios de programação.</p>
 
-+ <strong>Desenvolvimento web:</strong> muitos frameworks web, como o Django e o Flask, são escritos em Python, tornando-o uma escolha popular para o desenvolvimento de aplicativos web.
++ <strong>Desenvolvimento web:</strong> TypeScript é frequentemente usado para desenvolvimento de aplicativos da Web, incluindo sites e aplicativos web complexos. O Angular, React e Vue.js são alguns dos frameworks web populares que usam TypeScript.
 
-+ <strong>Ciência de dados:</strong> Python é uma das principais linguagens usadas em ciência de dados, graças às suas bibliotecas que permitem aos cientistas de dados trabalhar facilmente com grandes conjuntos de dados, realizar análises estatísticas e criar visualizações.
++ <strong>Desenvolvimento Mobile:</strong> O TypeScript pode ser usado em desenvolvimento móvel, especialmente em conjunto com o framework Ionic, que permite o desenvolvimento de aplicativos móveis híbridos com o uso de web technologies como HTML, CSS e JavaScript.
 
-+ <strong>Aprendizado de máquina:</strong> Python é uma das principais linguagens usadas em aprendizado de máquina e inteligência artificial, com bibliotecas que permitem aos desenvolvedores criar redes neurais e modelos de aprendizado de máquina.
++ <strong>•	Desenvolvimento de Desktop:</strong> O TypeScript pode ser usado para desenvolvimento de aplicativos de desktop, como o uso do Electron que permite criar aplicativos desktop multiplataforma usando tecnologias da web.
 
-+ <strong>Automação de tarefas:</strong> Python é frequentemente usado para automatizar tarefas repetitivas, como coletar informações da web, enviar e-mails, manipular arquivos e muito mais.
++ <strong>Desenvolvimento de Jogos:</strong> O TypeScript também pode ser usado para desenvolvimento de jogos. O framework Phaser é um exemplo de framework de jogos que permite o uso de TypeScript.
 
-+ <strong>Segurança cibernética:</strong> Python é frequentemente usado em segurança cibernética para criar scripts de detecção e análise de ameaças.
++ <strong>Internet das Coisas (IoT):</strong> O TypeScript também pode ser usado para desenvolvimento de soluções IoT. O Arduino, por exemplo, suporta o uso de TypeScript para desenvolvimento de aplicações.
 
-+ <strong>Jogos:</strong> Python é usado para criar jogos e engines de jogos, como o Pygame.
-
-> Em resumo, Python é uma linguagem de programação versátil que pode ser usada em uma ampla variedade de aplicativos e projetos.
+> Em resumo, o TypeScript é uma linguagem de programação moderna, que traz benefícios como segurança, tipagem estática, melhorias na sintaxe, entre outros recursos que ajudam no desenvolvimento de aplicações complexas.
 
 ## 💻 Instalação
 
-<p>Python pode ser facilmente instalado em diferentes sistemas operacionais, incluindo Windows, macOS e Linux. Existem várias maneiras de instalar Python, como a instalação direta do site oficial do Python ou por meio de gerenciadores de pacotes, como o pip.</p>
+<p>O TypeScript pode ser instalado em qualquer sistema operacional que suporte o Node.js. Para instalar o TypeScript, primeiro é necessário instalar o Node.js em seu sistema.</p>
+<p>O Node.js é um ambiente de tempo de execução de código aberto que permite a execução de JavaScript fora do navegador, no servidor ou na linha de comando.</p>
+<strong>Esta instalação é válida para o Windows, Linux e macOS.</strong>
 
-### Windows
 
-Para instalar o Python no Windows, siga os seguintes passos:
+1. <p>Instale o Node.js acessando o <a href="" target="_blank">site oficial</a> e escolher a versão correspondente ao seu sistema operacional.</p>
 
-1. Acesse o site oficial do Python em https://www.python.org/downloads/ e baixe a versão mais recente do Python. Certifique-se de baixar a versão que corresponde ao seu sistema operacional e à sua arquitetura (32 bits ou 64 bits);
+Para verificar a instalação do node, abra o seu prompt de comando e digite:
 
-2. Após o download, execute o arquivo .exe que foi baixado e siga as instruções do instalador.
-
-3. Na tela "Customize Python", certifique-se de marcar a opção "Add Python to environment variables". Isso permitirá que você execute o Python a partir do prompt de comando.
-
-4. Conclua a instalação seguindo as demais instruções do instalador.
-
-5. Para testar se a instalação foi bem-sucedida, abra o prompt de comando do Windows e digite:
-
-```
-python --version
-```
-Se tudo estiver correto, o prompt deve exibir a versão do Python instalada.
-
-<p>Pronto, agora você tem o Python instalado no seu Windows!</p>
-
-### Linux
-
-Para instalar o Python no Linux, siga os seguintes passos:
-
-1. Abra o terminal e atualize os pacotes do sistema com o comando:
-
-```
-sudo apt-get update
+```prompt
+node –v
 ```
 
-2. Instale o Python digitando o comando:
+> Isso imprimirá a versão do Node instalada em seu sistema.
+
+2. Depois de instalar e verificar o Node.js, digite o seguinte comando para instalar o TypeScript globalmente:
 
 ```
-sudo apt-get install python3
+npm install -g typescript
 ```
-
-3. Verifique se a instalação foi bem-sucedida digitando o comando:
-
-```
-python3 --version
-```
-
-Se tudo estiver correto, o terminal deve exibir a versão do Python instalada.
-
-Pronto, agora você tem o Python instalado no seu Linux! Note que, dependendo da distribuição que você está usando, os comandos e a forma de instalar o Python podem variar. Por exemplo, em algumas distribuições você pode precisar usar yum em vez de 'apt-get'.
-
-### macOS
-
-Para instalar o Python no Mac, siga os seguintes passos:
-
-1. Acesse o site oficial do Python em https://www.python.org/downloads/ e baixe a versão mais recente do Python. Certifique-se de baixar a versão que corresponde ao seu sistema operacional e à sua arquitetura (32 bits ou 64 bits).
-
-2. Após o download, abra o arquivo .dmg que foi baixado e execute o instalador.
-
-3. Siga as instruções do instalador e conclua a instalação.
-
-4. Abra o terminal e verifique se a instalação foi bem-sucedida digitando o comando:
+3. Verifique se a instalação foi bem-sucedida. Basta digitar o seguinte comando no terminal:
 
 ```
-python3 --version
+tsc --version
 ```
 
-Se tudo estiver correto, o terminal deve exibir a versão do Python instalada.
+> Isso imprimirá a versão do TypeScript instalada em seu sistema.
+
+Com o TypeScript instalado, agora é possível criar projetos TypeScript e compilar arquivos TypeScript em JavaScript para executá-los em um ambiente Node.js ou em um navegador da web.
 
 ## 🔧 VSCode
 
-Tendo o Python instalado na sua máquina, para programar em Python no Visual Studio Code (VSCode), siga os seguintes passos:
+Tendo o TypeScript instalado na sua máquina, para programar no Visual Studio Code, siga os seguintes passos:
 
-1. Instale a extensão "Python" no VSCode. Para fazer isso, abra o VSCode e clique no ícone de extensões no lado esquerdo da tela <strong>(ou pressione Ctrl+Shift+X)</strong>. Na barra de busca que aparecer, digite "Python" e pressione Enter. Na lista de extensões que aparecer, clique em "Python" e clique no botão "Install".
+1. Inicie o VS Code e crie um novo projeto ou abra um existente.
 
-> Você pode instalar as extenções que achar que o auxiliarão no desenvolvimento em Python.
+2. Crie um arquivo <strong>tsconfig.json</strong> na raiz do projeto e adicione as seguintes linhas:
 
-2. Crie um novo arquivo Python no VSCode. Para fazer isso, clique em "File" no menu superior, selecione "New File" e salve o arquivo com a extensão '<strong>.py</strong>'. Por exemplo, você pode salvar o arquivo como "index.py".
-
-3. Escreva o seu código Python no arquivo criado. Por exemplo:
-
-```python
-print('Hello world!')
-```
-> Este código irá imprimir um "Hello, world!".
-
-4. Salve o arquivo pressionando <strong>Ctrl+S</strong>.
-
-5. Abra o terminal integrado do VSCode pressionando Ctrl+Ç e no terminal integrado, navegue até o diretório onde você salvou o arquivo Python digitando o comando:
-
-```bash
-cd caminho/do/diretorio
+```json
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  "include": ["src/**/*"]
+}
 ```
 
-6. Execute o arquivo Python digitando o comando:
+> Este arquivo pode ser criado automáticamente.
+> Para criar o arquivo tsconfig.json automaticamente em um projeto TypeScript, você pode executar o seguinte comando no terminal, dentro da pasta do seu projeto:
+> 
 
-```python
-python index.py
 ```
+tsc --init
+```
+> Esse comando irá gerar um arquivo tsconfig.json com as configurações padrão do TypeScript. Você pode então editar esse arquivo conforme necessário para atender às necessidades específicas do seu projeto.
 
-> Repare que o 'index' é o nome do nosso arquivo Python, você deverá substitui-lo pelo nome do seu arquivo.
+3. Crie uma pasta <strong>src</strong> e lá crie o seu arquivos TypeScript (com a extensão .ts) na pasta do seu projeto e o VS Code os reconhecerá automaticamente.
 
-Se tudo estiver correto, o VSCode deve exibir a mensagem "Hello, world!" no terminal.
+4. Para compilar o código TypeScript em JavaScript, basta abrir o terminal no VS Code e digitar o comando 'tsc'. Isso irá compilar todos os arquivos TypeScript na pasta 'src' em arquivos JavaScript na pasta 'dist'.
 
-> agora você sabe como programar em Python no VSCode! É possível configurar várias opções de configuração e depuração no VSCode para tornar o seu processo de desenvolvimento ainda mais fácil e produtivo.
+> Com essas etapas, você deve estar pronto para começar a programar em TypeScript no VS Code!
 
 ## 🌐 Online code
 
-<p>Existem várias plataformas online que permitem programar em Python sem precisar instalar um ambiente de desenvolvimento integrado (IDE) localmente. Algumas opções populares são:</p>
+<p>Existem vários editores de TypeScript online disponíveis, cada um com suas próprias vantagens e desvantagens. Alguns dos editores mais populares são:</p>
 
-+ <a href="https://www.pythonanywhere.com/">PythonAnywhere</a> 
-
-+ <a href="https://repl.it/languages/python3">Repl.it</a>
-+ <a href="https://colab.research.google.com/">Google Colab</a>
-+ <a href="https://jupyter.org/try">Jupyter Notebook</a>
-
-Cada uma dessas plataformas tem suas próprias vantagens e desvantagens, então é importante escolher a que melhor se adequa às suas necessidades. Algumas delas têm recursos avançados para programação científica, enquanto outras são mais adequadas para iniciantes ou para programação web.
-
++ <a href="https://www.typescriptlang.org/play/" target="_blank">TypeScript Playground</a> 
++ <a href="https://replit.com/languages/typescript" target="_blank">Repl.it</a>
++ <a href="https://codesandbox.io/" target="_blank">CodeSandbox</a>
 
 ## 📖 Guia de estudo
 
-Existem muitos recursos disponíveis para quem deseja aprender Python, incluindo <a href="https://docs.python.org/pt-br/3/tutorial/index.html">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
+Existem muitos recursos disponíveis para quem deseja aprender TypeScript, incluindo a <a href="https://www.typescriptlang.org/pt/docs/" target="_blank">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
 
-Índice de estudo da linguagem Python:
+Se você é um iniciante em TypeScript, aqui está um índice sugerido de tópicos de estudo:
 
-<strong>Conceitos básicos de programação</strong>
-+ Variáveis e tipos de dados
-+ Operadores e expressões
-+ Estruturas de controle de fluxo (if/else, while, for)
-+ Funções
-+ Listas, tuplas e dicionários
-+ Módulos e pacotes
+<strong>Introdução ao TypeScript</strong>
++	O que é TypeScript
++	Principais recursos e benefícios do TypeScript
++	Diferenças entre TypeScript e JavaScript
 
-<strong>Sintaxe básica do Python</strong>
-+	Indentação
-+	Comentários
-+	Funções built-in (print, input, range, etc.)
-+	Strings
-+	Manipulação de arquivos
+<strong>Sintaxe Básica</strong>
++	Variáveis e tipos de dados básicos (number, string, boolean)
++	Arrays e tuplas
++	Enumerações (enums)
++	Funções e tipos de função
++	Interfaces
 
-<strong>Programação orientada a objetos</strong>
-+	Classes e objetos
+
+<strong>Programação Orientada a Objeto (POO) em TypeScript</strong>
++	Classes e propriedades
++	Métodos e construtores
 +	Herança e polimorfismo
-+	Encapsulamento e abstração
++	Modificadores de acesso
 
-<strong>Bibliotecas e ferramentas úteis</strong>
-+	NumPy (manipulação de arrays numéricos)
-+	Pandas (análise de dados)
-+	Matplotlib (visualização de dados)
-+	Flask (desenvolvimento web)
-+	Pygame (desenvolvimento de jogos)
 
-<strong>Projetos práticos</strong>
-+	Cálculo de IMC
-+	Jogo da forca
-+	Calculadora
-+	Análise de dados de vendas
-+	Aplicativo web simples
+<strong>Avançando no TypeScript</strong>
++	Tipos genéricos
++	Union Types
++	Type Aliases
++	Namespaces e módulos
++	Decorators
 
-É importante lembrar que este é apenas um guia e não a ordem exata para se estudar Python, é importante praticar com exercícios e projetos práticos para realmente aprimorar suas habilidades em Python.
+<strong>Bibliotecas e Frameworks em TypeScript</strong>
++	Angular
++	React
++	Vue.js
+
+<strong>Testando em TypeScript</strong>
++	Testes unitários com Jest
+
+<strong>Empacotamento e compilação</strong>
++	Empacotando com Webpack
++	Compilando com tsc (TypeScript Compiler)
+
+<strong>Melhores práticas de programação em TypeScript</strong>
++	Utilizando os tipos de dados corretamente
++	Evitando o any type
++	Escrevendo código legível e sustentável
+
+
+<strong>Recursos adicionais</strong>
++	TypeScript Playground
++	Comunidade TypeScript
++	Livros e cursos recomendados
+
+Este é apenas um guia básico para iniciantes. À medida que você progride em seus estudos, você pode explorar outros tópicos mais avançados, bibliotecas e ferramentas que melhor se adaptem às suas necessidades. Boa sorte!
 
 ## 🛠️  Ferramentas e bibliotecas
 
-Python possui uma ampla variedade de bibliotecas e frameworks que facilitam o desenvolvimento em diversas áreas. Confira uma pequena lista das mesmas separadas por áreas.
+Existem várias ferramentas e bibliotecas disponíveis para desenvolvimento com TypeScript. Aqui estão algumas delas, separadas por áreas:
 
-<strong>Ciência de Dados e Aprendizado de Máquina</strong>
-+	NumPy: para cálculos numéricos eficientes.
-+	Pandas: para manipulação e análise de dados.
-+	Matplotlib: para visualização de dados.
-+	Scikit-learn: para aprendizado de máquina e mineração de dados.
-+	TensorFlow: para desenvolvimento de modelos de aprendizado de máquina.
-+	PyTorch: outra biblioteca para desenvolvimento de modelos de aprendizado de máquina.
-+	Keras: para construção e treinamento de redes neurais.
+<strong>Frameworks Web</strong>
 
-<strong>Desenvolvimento Web</strong>
-+	Django: para desenvolvimento de aplicações web completas.
-+	Flask: para construção de aplicações web simples e leves.
-+	BeautifulSoup: para fazer web scraping (coleta de dados de websites).
-+	Requests: para fazer requisições HTTP em aplicações web.
++ Angular: é um framework web para desenvolvimento de aplicações SPA (Single Page Application) que utiliza TypeScript como sua linguagem principal.
++ React: é uma biblioteca JavaScript para construção de interfaces de usuário que pode ser usada em conjunto com TypeScript para tornar o desenvolvimento mais seguro e escalável.
++	Vue.js: é um framework JavaScript para construção de interfaces de usuário progressivas e é compatível com TypeScript.
 
-<strong>Desenvolvimento de jogos</strong>
-+	Pygame: Uma biblioteca popular para criar jogos em Python, que oferece suporte a gráficos 2D e áudio, além de entrada do usuário.
-+	PyOpenGL: Uma biblioteca que oferece suporte ao OpenGL em Python, o que permite criar gráficos 3D para jogos.
-+	Panda3D: Uma biblioteca de código aberto que fornece ferramentas para criar jogos em 3D e outras aplicações interativas.
-+	Arcade: Uma biblioteca relativamente nova, voltada para a criação de jogos em 2D, mas que tem ganhado popularidade por sua facilidade de uso e recursos.
-+	Pyglet: Uma biblioteca para jogos em 2D e 3D, que oferece suporte a gráficos, som e entrada do usuário.
+<strong>Bibliotecas</strong>
++	Lodash: é uma biblioteca JavaScript de utilitários que fornece funções para manipulação de arrays, objetos, strings, entre outros, e possui tipos para TypeScript.
++	Axios: é uma biblioteca JavaScript para realizar requisições HTTP que também possui tipos para TypeScript.
++	Moment.js: é uma biblioteca JavaScript para manipulação de datas e horários que possui tipos para TypeScript.
++	TypeORM: é uma biblioteca JavaScript/TypeScript para mapeamento objeto-relacional (ORM) que pode ser usada com vários bancos de dados.
 
-É importante lembrar que existem muitas outras bibliotecas e ferramentas disponíveis para o Python, e essas são só algumas das várias.
+Essas são apenas algumas das ferramentas e bibliotecas disponíveis para desenvolvimento com TypeScript. Há muitas outras disponíveis e você pode escolher aquelas que melhor atendem às suas necessidades específicas.
 
 ## 🚀 Projetos populares
 
-Alguns dos projetos populares criados em Python incluem:
+Veja uma lista com alguns projectos famosos que usam ou podem usar TypeScript em seu código:
 
-+ <a href="https://open.spotify.com/?">Spotify</a> - um serviço de streaming de música muito popular que utiliza Python para gerenciar seus recursos.
-+ <a href="https://www.youtube.com/">YouTube</a> - A plataforma de compartilhamento de vídeos mais popular do mundo utiliza Python em grande escala para gerenciamento de tráfego, armazenamento e processamento de dados.
-+ <a href="https://www.netflix.com/ao/">Netflix</a> - um dos serviços de streaming de vídeo mais populares do mundo, que usa Python para gerenciar suas operações e dados.
-+ <a href="https://www.instagram.com/">Instagram</a> - um aplicativo de compartilhamento de fotos e vídeo muito popular que foi construído com Python e Django.
-+ <a href="https://www.dropbox.com/">Dropbox</a> - um serviço de armazenamento em nuvem que usa Python para gerenciar suas operações.
++ <a href="https://soundcloud.com/" target="_blank">SoundCloud</a> - uma plataforma de compartilhamento de música que usa TypeScript em algumas partes do seu código front-end.
+
++ <a href="https://pt.airbnb.com/?_set_bev_on_new_domain=1680617876_NzllMzc0ZDlhZTVi" target="_blank">Airbnb</a> - o Airbnb usa TypeScript em grande parte de seu código, incluindo em sua plataforma web e em suas ferramentas de desenvolvimento interno.
+
++ <a href="https://pt.wix.com/" target="_blank">Wix</a> - plataforma de criação de sites. Wix usa TypeScript em grande parte de seu código front-end e back-end.
+
++ <a href="https://www.microsoft.com/pt-br/microsoft-teams/log-in" target="_blank">Microsoft Teams</a> - o Microsoft Teams, uma plataforma de comunicação empresarial, é construído com TypeScript.
+
++ <a href="https://asana.com/pt" target="_blank">Asana</a> - a plataforma de gerenciamento de tarefas Asana usa TypeScript em seu front-end e back-end.
 
 ## 👥 Comunidade
 
-A comunidade Python é reconhecida como uma das maiores e mais ativas comunidades de desenvolvimento de software do mundo, composta por milhões de desenvolvedores, usuários e entusiastas de Python em todo o mundo. Ela é inclusiva, colaborativa e encoraja a contribuição de desenvolvedores para a linguagem, documentação e projetos de código aberto relacionados. Há muitos recursos disponíveis para a comunidade, incluindo bibliotecas e frameworks de código aberto, além de tutoriais, cursos e documentação útil. A comunidade Python é ativa no desenvolvimento de novas tecnologias, como inteligência artificial, aprendizado de máquina e análise de dados.
+A comunidade TypeScript também é bastante ativa e crescente, especialmente desde que a linguagem foi lançada pela Microsoft em 2012. A comunidade TypeScript é composta por desenvolvedores, usuários e entusiastas de todo o mundo, que colaboram em projetos de código aberto e contribuem para o desenvolvimento da linguagem e de suas ferramentas.
 
-Aqui estão alguns links para algumas das principais comunidades Python no Github:
 
-+ https://github.com/python - Organização oficial do Python no Github, com vários projetos relacionados à linguagem e à sua comunidade.
+Aqui estão alguns links para a comunidade TypeScript no GitHub:
 
-+ https://github.com/psf - Python Software Foundation, organização sem fins lucrativos responsável pelo desenvolvimento e promoção da linguagem Python.
++ Repositório oficial do TypeScript: https://github.com/microsoft/TypeScript
 
-+ https://github.com/pyenv - Pyenv, gerenciador de versões do Python que permite instalar e alternar entre diferentes versões da linguagem.
++ TypeScript Handbook: https://github.com/microsoft/TypeScript-Handbook
 
-Aqui estão alguns perfis e hashtags que você pode seguir para se manter atualizado sobre as novidades da comunidade Python no Twitter:
++ Awesome TypeScript: https://github.com/dzharii/awesome-typescript
 
-+ <a href="https://twitter.com/ThePSF">@ThePSF</a> - conta oficial da Python Software Foundation, que promove o desenvolvimento e a adoção da linguagem Python em todo o mundo.
-+ <a href="https://twitter.com/pybites">@pybites</a> - perfil que compartilha dicas e desafios relacionados à linguagem Python, além de promover a comunidade de desenvolvedores em torno da linguagem.
-+ <a href="https://twitter.com/realpython">RealPython</a> - perfil que compartilha tutoriais, dicas e recursos para desenvolvedores Python, além de promover a comunidade Python em geral.
+Aqui estão os links dos perfis do Twitter relacionados a TypeScript:
+
++ <a href="https://twitter.com/typescript" target="_blank">@typescript</a> 
+
++ <a href="https://twitter.com/ryan_cavanaugh" target="_blank">@ryan_cavanaugh</a> 
+
++ <a href="https://twitter.com/ahejlsberg" target="_blank">ahejlsberg</a>
 
 ## 👨🏽‍💼 Créditos
 
@@ -260,7 +229,7 @@ Aqui estão alguns perfis e hashtags que você pode seguir para se manter atuali
 
 ### 📱 Redes sociais
 
-+ <a href="https://www.linkedin.com/in/otoniel-emanuel-b80727261/">LinkedIn</a>
-+ <a href="https://www.instagram.com/eusouootis_">Instagram</a>
++ <a href="https://www.linkedin.com/in/otoniel-emanuel-b80727261/" target="_blank">LinkedIn</a>
++ <a href="https://www.instagram.com/eusouootis_" target="_blank">Instagram</a>
 
 
