@@ -39,6 +39,38 @@ Para este repositório, foram escolhidas 5 linguagens de programação inicialme
 
 ## 🔢 Exercícios resolvidos
 
+Estão listados todos os exercícios resolvidos neste repositório em cada uma das 5 linguagens mencionadas. Fique à vontade para explorar os exercícios, experimentar diferentes abordagens e aprimorar seu conhecimento de programação. Esperamos que esses exercícios sejam úteis e divertidos para você!
+
++ Cálculo de média
+
++ Fibonacci
+
++ Impressão de árvore de asteriscos
+
++ Máximo divisor comum (MDC)
+
++ Cálculo de fatorial
+
++ FizzBuzz
+
++ Conversão de unidades
+
++ Verificação de paridade
+
++ Calculadora simples
+
++ Advinhe o número
+
++ Gerador de senhas
+
++ Palíndromo
+
++ Jogo da forca
+
++ Criptografia
+
+> Com o passar do tempo e a vossa ajuda, a lista vai crescendo. Você poderão sugerir exercícios que queiram ver resolvidos ou adicionares vocês mesmos.
+
 ## 🚀 Como contribuir
 
 ## 🔧 VSCode
