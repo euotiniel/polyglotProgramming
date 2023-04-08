@@ -1,16 +1,5 @@
 <h1 align="center">Polyglot Programming.ao</h1>
 
-<p>Exercícios populares resolvidos em várias linguagens de programação</p>
-
-## 📚 Índice
-+ [Descrição](#📝-descrição)
-+ [Linguagens incluídas](#💻-linguagens-incluídas)
-+ [Como contribuir](#🚀-como-contribuir)
-+ [VSCode](#🔧-vscode)
-+ [Créditos](#👨🏽‍💼-créditos)
-
-## 📝 Descrição
-
 <p>Este é um projeto de código aberto no GitHub que contém uma coleção de exercícios populares de programação resolvidos em várias linguagens de programação, com o objetivo de ajudar outros desenvolvedores a aprender e aprimorar suas habilidades em programação, também é uma ótima opção para quem queira encontrar alguns desafios populares resolvidos e muito mais.</p>
 
 ### Objectivo
@@ -72,8 +61,6 @@ Estão listados todos os exercícios resolvidos neste repositório em cada uma d
 + Converor binário
 
 > Com o passar do tempo e a vossa ajuda, a lista vai crescendo. Você poderão sugerir exercícios que queiram ver resolvidos ou adicionares vocês mesmos.
-
-## 🚀 Como contribuir
 
 ## 🔧 VSCode
 
