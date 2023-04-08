@@ -69,6 +69,8 @@ Estão listados todos os exercícios resolvidos neste repositório em cada uma d
 
 + Criptografia
 
++ Converor binário
+
 > Com o passar do tempo e a vossa ajuda, a lista vai crescendo. Você poderão sugerir exercícios que queiram ver resolvidos ou adicionares vocês mesmos.
 
 ## 🚀 Como contribuir
