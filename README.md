@@ -37,31 +37,9 @@ Para este repositório, foram escolhidas 5 linguagens de programação inicialme
 + <a href="">Go</a>
 + <a href="">Ruby</a>
 
+## 🔢 Exercícios resolvidos
+
 ## 🚀 Como contribuir
-
-Se você deseja contribuir para este projeto, siga as etapas abaixo:
-
-
-+ Crie um fork deste repositório
-
-+ Crie uma nova branch com o nome da sua feature
-
-```
-git checkout -b minha-feature
-```
-
-Faça as alterações necessárias e faça commit
-
-```
-git commit -am 'Adicionando nova feature'
-```
-
-+ Crie um novo Pull Request e aguarde a revisão
-
-+ Compartilhe o repositório com a sua comunidade
-
-E bora contribuir!
-
 
 ## 🔧 VSCode
 
