@@ -41,7 +41,7 @@
 <strong>Esta instalação é válida para o Windows, Linux e macOS.</strong>
 
 
-1. <p>Instale o Node.js acessando o <a href="" target="_blank">site oficial</a> e escolher a versão correspondente ao seu sistema operacional.</p>
+1. <p>Instale o Node.js acessando o <a href="https://nodejs.org/en" target="_blank">site oficial</a> e escolher a versão correspondente ao seu sistema operacional.</p>
 
 Para verificar a instalação do node, abra o seu prompt de comando e digite:
 
