@@ -1,4 +1,4 @@
-<h1 align="center">Go</h1>
+<h1 align="center">Go </h1>
 
 <img src="./assets/golang.jpg" alt="Golang" />
 
