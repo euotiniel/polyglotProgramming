@@ -12,7 +12,7 @@ public class Factorial {
             factorial *= i;
         }
 
-        System.out.println("O factorial de" + number + "! é:" + factorial);
+        System.out.println("O factorial de" + number + "! :" + factorial);
 
         scanner.close();
     }
