@@ -21,10 +21,10 @@
 Para este repositório, foram escolhidas 5 linguagens de programação inicialmente. São elas:
 
 + <a href="https://github.com/otonielemanuel/polyglotProgramming/tree/main/Python">Python</a>
-+ <a href="">TypeScript</a>
-+ <a href="">Java</a>
-+ <a href="">Go</a>
-+ <a href="">Ruby</a>
++ <a href="https://github.com/otonielemanuel/polyglotProgramming/tree/main/TypeScript">TypeScript</a>
++ <a href="https://github.com/otonielemanuel/polyglotProgramming/tree/main/Java">Java</a>
++ <a href="https://github.com/otonielemanuel/polyglotProgramming/tree/main/Go">Go</a>
++ <a href="https://github.com/otonielemanuel/polyglotProgramming/tree/main/Ruby">Ruby</a>
 
 ## 🔢 Exercícios resolvidos
 
