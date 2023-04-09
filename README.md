@@ -72,7 +72,7 @@ Para instalar o VSCode no Windows, siga as seguintes instruções:
 
 Quando a instalação estiver concluída, execute o VSCode e você estará pronto para começar a usá-lo.
 
-#### Linux (Debian/Ubuntu)
+### Linux (Debian/Ubuntu)
 
 + Abra um terminal e adicione a chave Microsoft GPG:
 
