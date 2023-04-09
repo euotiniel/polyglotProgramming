@@ -2,7 +2,7 @@
 
 <img src="./assets/python.jpg" alt="Python" />
 
-<p>🐍 Python é uma linguagem de programação interpretada, de alto nível e propósito geral criada por Guido van Rossum em 1991. </p>
+<p>Python é uma linguagem de programação interpretada, de alto nível e de propósito geral criada por Guido van Rossum em 1991. </p>
 <p>O nome "Python" foi dado em homenagem ao grupo de comédia britânico Monty Python, do qual o criador era um grande fã.</p>
 <p>Ao longo dos anos, Python ganhou popularidade por ser fácil de usar, ter uma sintaxe clara e intuitiva, e uma grande quantidade de recursos prontos para uso.</p>
 <p>Python é uma linguagem poderosa que pode ser usada para uma ampla variedade de tarefas, desde a criação de pequenos scripts até a implementação de grandes projetos complexos. Com sua grande quantidade de bibliotecas prontas para uso, Python facilita o desenvolvimento de projetos.</p>
