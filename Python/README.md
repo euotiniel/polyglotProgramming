@@ -158,7 +158,7 @@ Cada uma dessas plataformas tem suas próprias vantagens e desvantagens, então 
 
 ## 📖 Guia de estudo
 
-Existem muitos recursos disponíveis para quem deseja aprender Python, incluindo a<a href="https://docs.python.org/pt-br/3/tutorial/index.html" target="_blank">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
+Existem muitos recursos disponíveis para quem deseja aprender Python, incluindo a <a href="https://docs.python.org/pt-br/3/tutorial/index.html" target="_blank">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
 
 Índice de estudo da linguagem Python:
 
