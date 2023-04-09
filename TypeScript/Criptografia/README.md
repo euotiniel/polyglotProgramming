@@ -22,10 +22,23 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 
 3. Abra a pasta do exercícios que queira testar. Pelo VSCode por exemplo.
 
-4. Execute o programa com o seguinte código:
+
+4.  Execute o seguinte comando antes de compilar:
 
 ```
-node app.ts
+npm install -g ts-node
 ```
 
-E agora, provavelmente você já deve ter o exercício "Crip" rodando na sua máquina.
+5.  Digite o seguinte comando para baixar alguns pacotes:
+
+```
+npm i --save-dev @types/readline-sync
+```
+
+6. Execute o programa com o seguinte código:
+
+```
+ts-node app.ts
+```
+
+E agora, provavelmente você já deve ter o exercício "Criptografia" rodando na sua máquina.

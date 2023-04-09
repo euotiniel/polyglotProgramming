@@ -23,7 +23,7 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 4. Execute o programa com o seguinte código:
 
 ```
-node app.ts
+ts-node app.ts
 ```
 
 E agora, provavelmente você já deve ter o exercício "Cálculo de fatorial" rodado na sua máquina.

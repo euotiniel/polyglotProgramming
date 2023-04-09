@@ -22,10 +22,16 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 
 3. Abra a pasta do exercícios que queira testar. Pelo VSCode por exemplo.
 
-4. Execute o programa com o seguinte código:
+4.  Execute o seguinte comando antes de compilar:
 
 ```
-node app.ts
+npm install -g ts-node
+```
+
+5. Execute o programa com o seguinte código:
+
+```
+ts-node app.ts
 ```
 
 E agora, provavelmente você já deve ter o exercício "Cálculo de fatorial" rodado na sua máquina.

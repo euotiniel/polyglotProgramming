@@ -31,7 +31,7 @@ npm install -g ts-node
 5. Execute o programa com o seguinte código:
 
 ```
-node app.ts
+ts-node app.ts
 ```
 
 E agora, provavelmente você já deve ter o exercício "Impressão de árvore de asteriscos" rodando na sua máquina.
