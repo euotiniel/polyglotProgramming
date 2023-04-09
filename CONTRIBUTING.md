@@ -23,25 +23,16 @@ git commit -am 'Adicionando nova solução para o exercício X em Java'
 + Se você estiver corrigindo ou otimizando uma solução existente, certifique-se de incluir um comentário detalhando as alterações que foram feitas.
 
 ## Linguagens e Exercícios
-Nós atualmente suportamos os seguintes exercícios nas seguintes linguagens mencionadas:
 
-+ Cálculo de média 
+Nós atualmente suportamos os seguintes exercícios nas seguintes linguagens mencionadas:
 
 + Fibonacci
 
 + Impressão de árvore de asteriscos
 
-+ Máximo divisor comum (MDC)
-
 + Cálculo de fatorial
 
 + FizzBuzz
-
-+ Conversão de unidades
-
-+ Verificação de paridade
-
-+ Calculadora simples
 
 + Advinhe o número
 

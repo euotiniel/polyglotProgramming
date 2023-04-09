@@ -42,8 +42,6 @@ Estão listados todos os exercícios resolvidos neste repositório em cada uma d
 
 +   FizzBuzz: Esse exercício envolve escrever um programa que imprime números de 1 a 100, substituindo os múltiplos de 3 por "Fizz", os múltiplos de 5 por "Buzz" e os múltiplos de ambos por "FizzBuzz".
 
-+   Verificação de paridade - Esse exercício envolve escrever um programa que verifica se um número é par ou ímpar.
-
 +   Advinhe o número - Esse exercício envolve escrever um programa que gera um número aleatório e permite que o usuário adivinhe qual é esse número.
 
 +   Gerador de senhas - Esse exercício envolve escrever um programa que gera uma senha aleatória e a exibe ao usuário.
