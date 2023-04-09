@@ -34,4 +34,4 @@ npm install -g ts-node
 node app.ts
 ```
 
-E agora, provavelmente você já deve ter o exercícios "Impressão de árvore de asteriscos" rodando na sua máquina.
+E agora, provavelmente você já deve ter o exercício "Impressão de árvore de asteriscos" rodando na sua máquina.

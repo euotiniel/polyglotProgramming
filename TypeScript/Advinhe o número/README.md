@@ -32,4 +32,4 @@ npm install -g ts-node
 ts-node app.ts
 ```
 
-E agora, provavelmente você já deve ter o exercícios "Advinhe o número" rodado na sua máquina.
+E agora, provavelmente você já deve ter o exercício "Advinhe o número" rodado na sua máquina.

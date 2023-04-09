@@ -28,4 +28,4 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 node app.ts
 ```
 
-E agora, provavelmente você já deve ter o exercícios "Cálculo de fatorial" rodado na sua máquina.
+E agora, provavelmente você já deve ter o exercício "Cálculo de fatorial" rodado na sua máquina.
