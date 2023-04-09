@@ -2,7 +2,7 @@
 
 O exercício "Advinhe o número" é um exercício de programação que envolve a criação de um programa que gera um número aleatório e permite que o usuário tente adivinhar qual é esse número. O objetivo do exercício é praticar a geração de números aleatórios, a entrada e saída de dados do usuário e a manipulação de variáveis em um programa.
 
-O programa geralmente começa gerando um número aleatório entre um determinado intervalo, por exemplo, entre 1 e 100. O usuário é então solicitado a adivinhar o número, digitando um valor no teclado. O programa verifica se o valor digitado pelo usuário é o mesmo que o número gerado aleatoriamente. Se o valor for o mesmo, o programa exibe uma mensagem de parabéns e encerra a execução. 
+O programa geralmente começa gerando um número aleatório entre um determinado intervalo, por exemplo, entre 1 e 100. O usuário é então solicitado a adivinhar o número, digitando um valor no teclado. O programa verifica se o valor digitado pelo usuário é o mesmo que o número gerado aleatoriamente. Se o valor for o mesmo, o programa exibe uma mensagem de parabéns e encerra a execução, caso não, será exibida uma mensagem a dizer que o usário errou e qual era o número.
 
 ## Testar
 
