@@ -1,11 +1,16 @@
-<h1 align="center">Python</h1>
+<h1 align="center">Java</h1>
 
-<img src="./assets/python.jpg" alt="Python" />
+<img src="./assets/Java.png" alt="Java" />
 
-<p>🐍 Python é uma linguagem de programação interpretada, de alto nível e propósito geral criada por Guido van Rossum em 1991. </p>
-<p>O nome "Python" foi dado em homenagem ao grupo de comédia britânico Monty Python, do qual o criador era um grande fã.</p>
-<p>Ao longo dos anos, Python ganhou popularidade por ser fácil de usar, ter uma sintaxe clara e intuitiva, e uma grande quantidade de recursos prontos para uso.</p>
-<p>Python é uma linguagem poderosa que pode ser usada para uma ampla variedade de tarefas, desde a criação de pequenos scripts até a implementação de grandes projetos complexos. Com sua grande quantidade de bibliotecas prontas para uso, Python facilita o desenvolvimento de projetos.</p>
+<br />
+Java é uma linguagem de programação de alto nível, orientada a objetos, projetada para ser portátil e independente de plataforma. Ela foi criada pela Sun Microsystems (adquirida pela Oracle Corporation em 2010) nos anos 90 e desde então tem sido amplamente utilizada no desenvolvimento de aplicativos para desktop, web e dispositivos móveis.
+
+O nome "Java" foi inspirado no nome de uma espécie de café da Indonésia, onde um dos desenvolvedores da linguagem estava visitando na época. Além disso, o termo também é uma abreviação de "Oak", o nome original da linguagem, que foi alterado devido a uma questão de marca registrada.
+
+Uma das principais características da linguagem Java é sua portabilidade, ou seja, um programa escrito em Java pode ser executado em qualquer plataforma que tenha uma máquina virtual Java (JVM) instalada. Isso permite que os desenvolvedores escrevam aplicativos que possam ser executados em diferentes sistemas operacionais sem a necessidade de reescrever o código-fonte.
+
+Além disso, a linguagem Java possui uma grande biblioteca de classes e métodos pré-construídos (conhecidos como "Java Standard Library"), o que facilita o desenvolvimento de aplicativos complexos. A segurança é outra preocupação importante na linguagem Java, que possui recursos incorporados para evitar vulnerabilidades de segurança comuns.
+
 
 ## 📚 Índice
 
@@ -21,90 +26,98 @@
 
 ## 🧰 Para que serve?
 
-<p>Python é uma linguagem de programação amplamente utilizada em várias áreas, incluindo:</p>
+<p>A linguagem de programação Java é uma das linguagens mais populares e amplamente utilizadas no mundo da programação. Ela é utilizada para desenvolver uma ampla variedade de aplicativos, desde aplicativos de desktop até aplicativos web e móveis.</p>
 
-+ <strong>Desenvolvimento web:</strong> muitos frameworks web, como o Django e o Flask, são escritos em Python, tornando-o uma escolha popular para o desenvolvimento de aplicativos web.
+Algumas das áreas em que Java é comumente usada incluem:
 
-+ <strong>Ciência de dados:</strong> Python é uma das principais linguagens usadas em ciência de dados, graças às suas bibliotecas que permitem aos cientistas de dados trabalhar facilmente com grandes conjuntos de dados, realizar análises estatísticas e criar visualizações.
++ <strong>Desenvolvimento de aplicativos de desktop:</strong> através do uso de frameworks como o Swing, é possível criar aplicativos de desktop em Java.
 
-+ <strong>Aprendizado de máquina:</strong> Python é uma das principais linguagens usadas em aprendizado de máquina e inteligência artificial, com bibliotecas que permitem aos desenvolvedores criar redes neurais e modelos de aprendizado de máquina.
++ <strong>Desenvolvimento de aplicativos web: </strong> Java é frequentemente utilizado para criar aplicativos web dinâmicos, juntamente com frameworks como o Spring e o Hibernate.
 
-+ <strong>Automação de tarefas:</strong> Python é frequentemente usado para automatizar tarefas repetitivas, como coletar informações da web, enviar e-mails, manipular arquivos e muito mais.
++ <strong>Desenvolvimento de aplicativos móveis:</strong> com a plataforma Android sendo baseada em Java, muitos desenvolvedores utilizam a linguagem para criar aplicativos para dispositivos móveis.
 
-+ <strong>Segurança cibernética:</strong> Python é frequentemente usado em segurança cibernética para criar scripts de detecção e análise de ameaças.
++ <strong>Desenvolvimento de jogos:</strong> através de bibliotecas e frameworks, como o libGDX, é possível criar jogos em Java.
 
-+ <strong>Jogos:</strong> Python é usado para criar jogos e engines de jogos, como o Pygame.
++ <strong>Desenvolvimento de sistemas de backend:</strong> Java é frequentemente utilizado para criar sistemas de backend robustos e escaláveis, juntamente com frameworks como o Spring e o Apache Struts.
 
-> Em resumo, Python é uma linguagem de programação versátil que pode ser usada em uma ampla variedade de aplicativos e projetos.
+> Java é uma linguagem versátil e amplamente utilizada que pode ser usada em uma variedade de áreas de desenvolvimento de software.
 
 ## 💻 Instalação
 
-<p>Python pode ser facilmente instalado em diferentes sistemas operacionais, incluindo Windows, macOS e Linux. Existem várias maneiras de instalar Python, como a instalação direta do site oficial do Python ou por meio de gerenciadores de pacotes, como o pip.</p>
+<p>O processo de instalação do Java é relativamente simples e pode variar um pouco dependendo do sistema operacional que você está usando. </p>
 
 ### Windows
 
 Para instalar o Python no Windows, siga os seguintes passos:
 
-1. Acesse o site oficial do Python em https://www.python.org/downloads/ e baixe a versão mais recente do Python. Certifique-se de baixar a versão que corresponde ao seu sistema operacional e à sua arquitetura (32 bits ou 64 bits);
+1.	Acesse o <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank">site oficial da Oracle</a> para download do Java.
 
-2. Após o download, execute o arquivo .exe que foi baixado e siga as instruções do instalador.
+2.	Clique no botão "Download" ao lado da versão mais recente do Java. Certifique-se de selecionar a versão correta do Java para o seu sistema operacional (Windows, Mac, Linux, etc.) e para a arquitetura do seu processador (32 bits ou 64 bits).
 
-3. Na tela "Customize Python", certifique-se de marcar a opção "Add Python to environment variables". Isso permitirá que você execute o Python a partir do prompt de comando.
+3.	Na página de download, você pode ser solicitado a aceitar os termos e condições da Oracle antes de continuar. Se for o caso, leia os termos e condições e, se concordar, marque a caixa de seleção e clique em "Download".
 
-4. Conclua a instalação seguindo as demais instruções do instalador.
+4.	O arquivo de instalação do Java será baixado para o seu computador. Quando o download estiver concluído, clique duas vezes no arquivo para iniciar o processo de instalação.
 
-5. Para testar se a instalação foi bem-sucedida, abra o prompt de comando do Windows e digite:
+5.	Na tela de instalação, siga as instruções na tela para instalar o Java. Isso pode incluir aceitar um contrato de licença, selecionar um local para instalar o Java e escolher as opções de instalação que você deseja. Geralmente, as configurações padrão são suficientes.
+
+6.	Depois de concluir a instalação, reinicie o seu navegador da web ou quaisquer outros aplicativos que possam usar o Java para que as alterações entrem em vigor.
+
+Para consultar o Java na sua máquina, abra o prompt de comando e digite:
 
 ```
-python --version
+java –version
 ```
-Se tudo estiver correto, o prompt deve exibir a versão do Python instalada.
+Este comando irá exibir a versão do Java instalada em seu sistema, se ele estiver instalado. Se você receber uma mensagem de erro informando que o comando não foi reconhecido, isso provavelmente significa que o Java não está instalado ou não está configurado corretamente em seu sistema.
 
-<p>Pronto, agora você tem o Python instalado no seu Windows!</p>
+> Caso tenha problemas na instalação, visite a documentação oficial.
 
 ### Linux
 
-Para instalar o Python no Linux, siga os seguintes passos:
+Para instalar o Java  no Linux, siga os seguintes passos:
 
-1. Abra o terminal e atualize os pacotes do sistema com o comando:
+1.	Abra o terminal: Dependendo da distribuição Linux que você está usando, você pode encontrar o terminal no menu Aplicativos ou pressionando Ctrl + Alt + T no teclado.
+
+2.	Execute o seguinte comando para instalar usando o gerenciador de pacotes da sua distribuição. Por exemplo, no Ubuntu ou Debian:
 
 ```
 sudo apt-get update
 ```
 
-2. Instale o Python digitando o comando:
-
 ```
-sudo apt-get install python3
+sudo apt-get install default-jdk
 ```
 
-3. Verifique se a instalação foi bem-sucedida digitando o comando:
+Este comando instalará o OpenJDK, uma implementação livre e de código aberto do Java.
+
+Digite o seguinte comando e pressione Enter:
 
 ```
-python3 --version
+java -version
 ```
 
-Se tudo estiver correto, o terminal deve exibir a versão do Python instalada.
-
-Pronto, agora você tem o Python instalado no seu Linux! Note que, dependendo da distribuição que você está usando, os comandos e a forma de instalar o Python podem variar. Por exemplo, em algumas distribuições você pode precisar usar yum em vez de 'apt-get'.
+Se o tudo estiver instalado corretamente em seu sistema, a versão do Java será exibida no terminal. 
 
 ### macOS
 
-Para instalar o Python no Mac, siga os seguintes passos:
+Para instalar o Java no Mac, siga os seguintes passos:
 
-1. Acesse o site oficial do Python em https://www.python.org/downloads/ e baixe a versão mais recente do Python. Certifique-se de baixar a versão que corresponde ao seu sistema operacional e à sua arquitetura (32 bits ou 64 bits).
+1.	Baixe o pacote de instalação do Java da <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank">página de download da Oracle</a>.
 
-2. Após o download, abra o arquivo .dmg que foi baixado e execute o instalador.
+2.	Na página de download, procure a versão do Java que deseja instalar e clique no botão "Download".
 
-3. Siga as instruções do instalador e conclua a instalação.
+3.	Depois que o download estiver concluído, abra o arquivo .dmg que você acabou de baixar..
 
-4. Abra o terminal e verifique se a instalação foi bem-sucedida digitando o comando:
+4.	Clique duas vezes no arquivo de instalação. pkg e siga as instruções na tela para concluir a instalação.
+
+5.	Depois que a instalação estiver concluída, você pode verificar se o Java está instalado corretamente executando o comando:
 
 ```
-python3 --version
+java -version
 ```
 
-Se tudo estiver correto, o terminal deve exibir a versão do Python instalada.
+Se tudo estiver correto, isso exibirá a versão do Java.
+
+Isso é tudo! Você agora deve ter o Java instalado em seu sistema. Se você tiver problemas ou precisar de mais ajuda, consulte a documentação da Oracle ou procure por tutoriais específicos para o seu sistema operacional.
 
 ## 🔧 VSCode
 
@@ -145,114 +158,131 @@ Se tudo estiver correto, o VSCode deve exibir a mensagem "Hello, world!" no term
 
 ## 🌐 Online code
 
-<p>Existem várias plataformas online que permitem programar em Python sem precisar instalar um ambiente de desenvolvimento integrado (IDE) localmente. Algumas opções populares são:</p>
+<p>Existem várias plataformas online que permitem programar em Java sem precisar instalar um ambiente de desenvolvimento integrado localmente. Algumas opções populares são:</p>
 
-+ <a href="https://www.pythonanywhere.com/">PythonAnywhere</a> 
++ <a href=" https://www.jdoodle.com/online-java-compiler/" target="_blank">JDoodle</a> 
++ <a href="https://replit.com/languages/java" target="_blank">Repl.it</a>
++ <a href="https://ideone.com/l/java_compiler" target="_blank">Ideone</a>
++ <a href="https://www.compilejava.net/" target="_blank">CompileJava</a>
++ <a href="https://codegym.cc/playground/java/" target="_blank">CodeGym</a>
 
-+ <a href="https://repl.it/languages/python3">Repl.it</a>
-+ <a href="https://colab.research.google.com/">Google Colab</a>
-+ <a href="https://jupyter.org/try">Jupyter Notebook</a>
-
-Cada uma dessas plataformas tem suas próprias vantagens e desvantagens, então é importante escolher a que melhor se adequa às suas necessidades. Algumas delas têm recursos avançados para programação científica, enquanto outras são mais adequadas para iniciantes ou para programação web.
-
+Todos eles permitem que você escreva e execute código Java online, sem a necessidade de instalar qualquer software em seu computador. Basta acessar o site, escrever seu código, compilá-lo e executá-lo diretamente no navegador. Alguns deles também oferecem recursos adicionais, como a capacidade de salvar seu código, compartilhá-lo com outras pessoas e até mesmo aprender Java por meio de tutoriais interativos.
 
 ## 📖 Guia de estudo
 
-Existem muitos recursos disponíveis para quem deseja aprender Python, incluindo <a href="https://docs.python.org/pt-br/3/tutorial/index.html">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
+Existem muitos recursos disponíveis para quem deseja aprender Java, incluindo <a href="https://docs.oracle.com/en/java/">documentação oficial</a>, tutoriais em vídeo e cursos on-line.
 
-Índice de estudo da linguagem Python:
+Se você deseja aprender ou se aprofundar, aqui está um índice de estudo para Java que pode ser útil:
 
-<strong>Conceitos básicos de programação</strong>
-+ Variáveis e tipos de dados
-+ Operadores e expressões
-+ Estruturas de controle de fluxo (if/else, while, for)
-+ Funções
-+ Listas, tuplas e dicionários
-+ Módulos e pacotes
+<strong>Fundamentos de Java</strong>
++	Sintaxe básica de Java
++	Tipos de dados primitivos e objetos
++	Operadores
++	Controle de fluxo (condicionais, loops)
++	Arrays e coleções
++	Classes e objetos
++	Métodos e construtores
++	Herança e polimorfismo
 
-<strong>Sintaxe básica do Python</strong>
-+	Indentação
-+	Comentários
-+	Funções built-in (print, input, range, etc.)
-+	Strings
-+	Manipulação de arquivos
 
 <strong>Programação orientada a objetos</strong>
-+	Classes e objetos
-+	Herança e polimorfismo
-+	Encapsulamento e abstração
++	Encapsulamento e visibilidade
++	Abstração e interfaces
++	Tratamento de exceções
++	Anotações
++	Enumerações
 
-<strong>Bibliotecas e ferramentas úteis</strong>
-+	NumPy (manipulação de arrays numéricos)
-+	Pandas (análise de dados)
-+	Matplotlib (visualização de dados)
-+	Flask (desenvolvimento web)
-+	Pygame (desenvolvimento de jogos)
 
-<strong>Projetos práticos</strong>
-+	Cálculo de IMC
-+	Jogo da forca
-+	Calculadora
-+	Análise de dados de vendas
-+	Aplicativo web simples
+<strong>Avançando em Java</strong>
++	Threads e concorrência
++	Streams e I/O
++	JDBC e bancos de dados relacionais
++	JavaFX e GUI (Interface Gráfica de Usuário)
++	Reflection e anotações personalizadas
++	Garbage collection e gerenciamento de memória
 
-É importante lembrar que este é apenas um guia e não a ordem exata para se estudar Python, é importante praticar com exercícios e projetos práticos para realmente aprimorar suas habilidades em Python.
+
+<strong>Desenvolvimento Web com Java</strong>
++	Servlets e JSP (JavaServer Pages)
++	Frameworks web (Spring, Struts)
++	Desenvolvimento de APIs RESTful
++	ORM (Object-Relational Mapping) com Hibernate
+
+<strong>Desenvolvimento de aplicativos Android</strong>
++	Fundamentos do Android e SDK
++	Componentes de aplicativos Android (atividades, serviços, receptores de transmissão)
++	Interface do usuário com XML e Views
++	Persistência de dados com SQLite
++	Interação com a web usando HTTP e JSON
+
+<strong>Ferramentas e tecnologias</strong>
++	Maven e Gradle
++	JUnit e testes automatizados
++	Git e controle de versão
++	IDEs populares (Eclipse, IntelliJ IDEA)
+
+Bora começar a estudar!
 
 ## 🛠️  Ferramentas e bibliotecas
 
-Python possui uma ampla variedade de bibliotecas e frameworks que facilitam o desenvolvimento em diversas áreas. Confira uma pequena lista das mesmas separadas por áreas.
+Java possui várias ferramentas e bibliotecas que auxiliam no desenvolvimento em várias árias, aqui alguma delas:
 
-<strong>Ciência de Dados e Aprendizado de Máquina</strong>
-+	NumPy: para cálculos numéricos eficientes.
-+	Pandas: para manipulação e análise de dados.
-+	Matplotlib: para visualização de dados.
-+	Scikit-learn: para aprendizado de máquina e mineração de dados.
-+	TensorFlow: para desenvolvimento de modelos de aprendizado de máquina.
-+	PyTorch: outra biblioteca para desenvolvimento de modelos de aprendizado de máquina.
-+	Keras: para construção e treinamento de redes neurais.
+<strong>Desenvolvimento de aplicativos de desktop</strong>
++	Swing: biblioteca gráfica para a criação de interfaces gráficas de usuário (GUIs) em Java.
++	JavaFX: plataforma para desenvolvimento de aplicações ricas em mídia interativa e gráficos.
 
 <strong>Desenvolvimento Web</strong>
-+	Django: para desenvolvimento de aplicações web completas.
-+	Flask: para construção de aplicações web simples e leves.
-+	BeautifulSoup: para fazer web scraping (coleta de dados de websites).
-+	Requests: para fazer requisições HTTP em aplicações web.
++	Servlets: API para desenvolvimento de aplicações web em Java.
++	JSP (JavaServer Pages): tecnologia para criação de páginas web dinâmicas em Java.
++	JSF (JavaServer Faces): framework para construção de interfaces web baseadas em componentes.
+
 
 <strong>Desenvolvimento de jogos</strong>
-+	Pygame: Uma biblioteca popular para criar jogos em Python, que oferece suporte a gráficos 2D e áudio, além de entrada do usuário.
-+	PyOpenGL: Uma biblioteca que oferece suporte ao OpenGL em Python, o que permite criar gráficos 3D para jogos.
-+	Panda3D: Uma biblioteca de código aberto que fornece ferramentas para criar jogos em 3D e outras aplicações interativas.
-+	Arcade: Uma biblioteca relativamente nova, voltada para a criação de jogos em 2D, mas que tem ganhado popularidade por sua facilidade de uso e recursos.
-+	Pyglet: Uma biblioteca para jogos em 2D e 3D, que oferece suporte a gráficos, som e entrada do usuário.
++	jMonkeyEngine: engine de jogos 3D para Java.
++	LibGDX: framework de desenvolvimento de jogos multiplataforma em Java.
 
-É importante lembrar que existem muitas outras bibliotecas e ferramentas disponíveis para o Python, e essas são só algumas das várias.
+<strong>Desenvolvimento de aplicativos móveis</strong>
++	Android SDK: conjunto de ferramentas para desenvolvimento de aplicativos Android em Java.
+
+<strong>Banco de dados</strong>
++	JDBC (Java Database Connectivity): API para acesso a bancos de dados relacionais em Java.
++	Hibernate: framework para mapeamento objeto-relacional em Java.
+
+<strong>Segurança</strong>
++	Spring Security: framework para segurança de aplicações web em Java.
+
+Essas são apenas algumas das muitas ferramentas e bibliotecas disponíveis para desenvolvimento em Java. A escolha de qual utilizar depende do tipo de projeto, requisitos e preferências pessoais.
 
 ## 🚀 Projetos populares
 
-Alguns dos projetos populares criados em Python incluem:
+Existem muitos projetos, plataformas, redes sociais e empresas que foram desenvolvidas usando Java. Aqui estão alguns exemplos:
 
-+ <a href="https://open.spotify.com/?">Spotify</a> - um serviço de streaming de música muito popular que utiliza Python para gerenciar seus recursos.
-+ <a href="https://www.youtube.com/">YouTube</a> - A plataforma de compartilhamento de vídeos mais popular do mundo utiliza Python em grande escala para gerenciamento de tráfego, armazenamento e processamento de dados.
-+ <a href="https://www.netflix.com/ao/">Netflix</a> - um dos serviços de streaming de vídeo mais populares do mundo, que usa Python para gerenciar suas operações e dados.
-+ <a href="https://www.instagram.com/">Instagram</a> - um aplicativo de compartilhamento de fotos e vídeo muito popular que foi construído com Python e Django.
-+ <a href="https://www.dropbox.com/">Dropbox</a> - um serviço de armazenamento em nuvem que usa Python para gerenciar suas operações.
++ <a href="https://developer.android.com/"  target="_blank">Android</a> - o sistema operacional móvel mais popular do mundo é desenvolvido usando Java.
++ <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> - a maior rede social de negócios do mundo foi desenvolvida usando Java.
++ <a href="https://www.minecraft.net/" target="_blank">Minecraft</a> - um dos jogos mais populares do mundo é desenvolvido em Java.
++ <a href="https://twitter.com/" target="_blank">Twitter</a> - a plataforma de mídia social mais popular do mundo usa Java em seu backend.
++ <a href="https://aws.amazon.com/" target="_blank">Amazon Web Services (AWS)</a> - a plataforma de nuvem líder mundial é desenvolvida em grande parte em Java.
 
 ## 👥 Comunidade
 
-A comunidade Python é reconhecida como uma das maiores e mais ativas comunidades de desenvolvimento de software do mundo, composta por milhões de desenvolvedores, usuários e entusiastas de Python em todo o mundo. Ela é inclusiva, colaborativa e encoraja a contribuição de desenvolvedores para a linguagem, documentação e projetos de código aberto relacionados. Há muitos recursos disponíveis para a comunidade, incluindo bibliotecas e frameworks de código aberto, além de tutoriais, cursos e documentação útil. A comunidade Python é ativa no desenvolvimento de novas tecnologias, como inteligência artificial, aprendizado de máquina e análise de dados.
+A comunidade Java é uma das maiores comunidades de desenvolvimento de software do mundo, com milhões de membros em todo o mundo. Eles compartilham conhecimento, trocam ideias e trabalham juntos para criar e aprimorar tecnologias Java, bem como para criar soluções de software que atendam às necessidades dos usuários.
+
+A comunidade Java é conhecida por sua diversidade e inclusão, com pessoas de todas as origens e níveis de habilidade trabalhando juntas em projetos. A comunidade é apoiada por empresas líderes em tecnologia, como Oracle, IBM e Red Hat, bem como por organizações sem fins lucrativos, como a Apache Software Foundation.
+
+A comunidade Java é responsável por muitos projetos de código aberto, como o Spring Framework, o Apache Tomcat, o Hibernate e o Maven, apenas para citar alguns. Esses projetos são amplamente usados em todo o mundo por desenvolvedores e empresas de todos os tamanhos.
+
 
 Aqui estão alguns links para algumas das principais comunidades Python no Github:
 
-+ https://github.com/python - Organização oficial do Python no Github, com vários projetos relacionados à linguagem e à sua comunidade.
++ <a href="https://github.com/spring-projects/spring-framework" target="_blank">Spring Framework</a> - uma das comunidades Java mais populares, o Spring Framework fornece uma estrutura abrangente e modular para o desenvolvimento de aplicativos Java. O Spring é conhecido por sua facilidade de uso, eficiência e flexibilidade, e é amplamente usado para construir aplicativos empresariais escaláveis e robustos.
++ <a href="https://github.com/eclipse-ee4j/" target="_blank">Jakarta EE</a> - uma comunidade Java que sucedeu o antigo Java EE (Java Enterprise Edition). Ele oferece um conjunto de especificações para a criação de aplicativos empresariais escaláveis e de alta performance em uma ampla gama de plataformas.
 
-+ https://github.com/psf - Python Software Foundation, organização sem fins lucrativos responsável pelo desenvolvimento e promoção da linguagem Python.
 
-+ https://github.com/pyenv - Pyenv, gerenciador de versões do Python que permite instalar e alternar entre diferentes versões da linguagem.
+Aqui estão alguns perfis e hashtags que você pode seguir para se manter atualizado sobre as novidades da comunidade Java no Twitter:
 
-Aqui estão alguns perfis e hashtags que você pode seguir para se manter atualizado sobre as novidades da comunidade Python no Twitter:
-
-+ <a href="https://twitter.com/ThePSF">@ThePSF</a> - conta oficial da Python Software Foundation, que promove o desenvolvimento e a adoção da linguagem Python em todo o mundo.
-+ <a href="https://twitter.com/pybites">@pybites</a> - perfil que compartilha dicas e desafios relacionados à linguagem Python, além de promover a comunidade de desenvolvedores em torno da linguagem.
-+ <a href="https://twitter.com/realpython">RealPython</a> - perfil que compartilha tutoriais, dicas e recursos para desenvolvedores Python, além de promover a comunidade Python em geral.
++ <a href="https://twitter.com/Java" target="_blank">Java</a> - a conta oficial do Java no Twitter, com atualizações sobre o desenvolvimento da plataforma, notícias da comunidade e dicas para desenvolvedores.
++ <a href="https://twitter.com/Javalobby" target="_blank">Javalobby</a> - uma comunidade Java online que compartilha notícias, artigos, tutoriais e discussões sobre a plataforma Java e tecnologias relacionadas.
++ <a href="https://twitter.com/JavaMagazine" target="_blank">Java Magazine</a> - A conta oficial da revista Java, que publica artigos e recursos sobre a plataforma Java, tendências de desenvolvimento e melhores práticas.
 
 ## 👨🏽‍💼 Créditos
 
