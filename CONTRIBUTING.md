@@ -49,8 +49,6 @@ Nós atualmente suportamos os seguintes exercícios nas seguintes linguagens men
 
 + Palíndromo
 
-+ Jogo da forca
-
 + Criptografia
 
 + Converor binário
