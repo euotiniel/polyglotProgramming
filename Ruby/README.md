@@ -42,7 +42,7 @@
 
 <strong>Windows</strong>
 
-1. Baixe o instalador Ruby mais recente para Windows no <a href="https://rubyinstaller.org/downloads/">site oficial.</a>
+1. Baixe o instalador Ruby mais recente para Windows no <a href="https://rubyinstaller.org/downloads/" target="_blank">site oficial.</a>
 
 2. Execute o instalador e siga as instruções na tela para concluir a instalação.
 
