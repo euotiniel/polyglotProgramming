@@ -19,3 +19,11 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 > Verifique o README principal do Ruby para saber mais sobre a instalação.
 
 3. Abra a pasta do exercícios que queira testar. Pelo VSCode por exemplo.
+
+4. Para executar o código abra o terminal do VSCode e digite:
+
+```
+ruby app.rb
+```
+
+Agora você já deve ter o exercício "Advinhe o número" rodado no seu computador.

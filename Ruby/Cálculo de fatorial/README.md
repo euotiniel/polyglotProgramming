@@ -5,7 +5,6 @@ O cálculo de fatorial é um exercício matemático que consiste em multiplicar 
 O exercício de cálculo de fatorial consiste em criar um programa que recebe um número inteiro positivo como entrada e calcula o seu fatorial. Por exemplo, o fatorial de 5 é 5 x 4 x 3 x 2 x 1, que resulta em 120.
 
 O programa deve ser capaz de lidar com diferentes entradas de usuário e fornecer o resultado correto do fatorial para cada uma delas. O cálculo do fatorial pode ser feito de várias maneiras, incluindo o uso de loops, recursão ou funções matemáticas.
-
 ## Testar
 
 Para executar esse código em seu computador siga os seguintes passos:
@@ -21,3 +20,11 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 > Verifique o README principal do Ruby para saber mais sobre a instalação.
 
 3. Abra a pasta do exercícios que queira testar. Pelo VSCode por exemplo.
+
+4. Para executar o código abra o terminal do VSCode e digite:
+
+```
+ruby app.rb
+```
+
+Agora você já deve ter o exercício "Advinhe o número" rodado no seu computador.
