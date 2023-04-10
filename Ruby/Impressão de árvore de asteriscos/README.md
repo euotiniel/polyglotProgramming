@@ -1,4 +1,4 @@
-<h1 align="center">Impressão de árvore de  asteriscos</h1>
+<h1 align="center">Impressão de árvore de asteriscos</h1>
 
 O exercício de impressão de árvore de asteriscos é um exercício comum em programação que envolve escrever um programa para imprimir uma árvore de asteriscos no console. A árvore consiste em linhas de asteriscos, começando com um asterisco no topo e aumentando gradualmente o número de asteriscos a cada linha, até chegar ao nível desejado.
 
@@ -28,4 +28,4 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 ruby app.rb
 ```
 
-Agora você já deve ter o exercício "Advinhe o número" rodado no seu computador.
+Agora você já deve ter o exercício "Impressão de árvore de asteriscos" rodado no seu computador.

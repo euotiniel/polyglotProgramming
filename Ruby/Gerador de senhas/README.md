@@ -24,4 +24,4 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 ruby app.rb
 ```
 
-Agora você já deve ter o exercício "Advinhe o número" rodado no seu computador.
+Agora você já deve ter o exercício "Gerador de senhas" rodado no seu computador.
