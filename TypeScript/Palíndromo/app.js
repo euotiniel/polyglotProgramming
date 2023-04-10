@@ -2,11 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var readline = require("readline");
 function verificarPalindromo(palavra) {
-    // Converte a palavra para minúsculas e remove espaços em branco
     palavra = palavra.toLowerCase().replace(/\s/g, "");
-    // Inverte a palavra usando o método Array.reverse() e junta os caracteres novamente em uma string
     var palavraInvertida = palavra.split("").reverse().join("");
-    // Compara a palavra original com a palavra invertida e retorna true se forem iguais
     return palavra === palavraInvertida;
 }
 var rl = readline.createInterface({

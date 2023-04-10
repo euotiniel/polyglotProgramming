@@ -8,4 +8,4 @@ function printTree(n) {
         stars += 2;
     }
 }
-printTree(10); // altere o número para imprimir uma árvore com mais ou menos níveis
+printTree(10); 
