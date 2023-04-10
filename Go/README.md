@@ -43,13 +43,14 @@ Para instalar o Go no Windows, siga os seguintes passos:
 
 2.	Execute o instalador MSI e siga as instruções para concluir a instalação.
 
-3.	Adicione o diretório bin do Go ao PATH do sistema. Para fazer isso, clique com o botão direito em "Meu Computador" e selecione "Propriedades". Clique em "Configurações avançadas do sistema" e, em seguida, clique no botão "Variáveis de ambiente". Na seção "Variáveis do sistema", encontre a variável "Path" e clique em "Editar". Adicione o caminho para o diretório bin do Go (geralmente C:\Go\bin) no final da variável Path, separado por um ponto-e-vírgula (;). Clique em "OK" para fechar todas as janelas de diálogo.
-
 Depois de concluir essas etapas, você pode verificar se a instalação do Go foi bem-sucedida digitando o seguinte comando no Prompt de Comando:
 
 ```
 go version
 ```
+
+> Caso não tenha instalado, adicione o diretório bin do Go ao PATH do sistema. Para fazer isso, clique com o botão direito em "Meu Computador" e selecione "Propriedades". Clique em "Configurações avançadas do sistema" e, em seguida, clique no botão "Variáveis de ambiente". Na seção "Variáveis do sistema", encontre a variável "Path" e clique em "Editar". Adicione o caminho para o diretório bin do Go (geralmente C:\Go\bin) no final da variável Path, separado por um ponto-e-vírgula (;). Clique em "OK" para fechar todas as janelas de diálogo.
+
 
 Se o Go estiver instalado corretamente, você verá a versão instalada da linguagem.
 

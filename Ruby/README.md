@@ -46,15 +46,14 @@
 
 2. Execute o instalador e siga as instruções na tela para concluir a instalação.
 
-3. Adicione o caminho de instalação do Ruby ao PATH do sistema operacional.
-
-4. Verifique se a instalação foi bem-sucedida, abra o prompt de comando do Windows e digite o comando:
+3. Verifique se a instalação foi bem-sucedida, abra o prompt de comando do Windows e digite o comando:
 
 ```ruby
 ruby -v
 ```
+> Caso não tenha instalado, adicione o caminho de instalação do Ruby ao PATH do sistema operacional.
 
-> Se tudo estiver correto, o prompt retornará a versão do Ruby instalada. Daí é só codar!
+Se tudo estiver correto, o prompt retornará a versão do Ruby instalada. Daí é só codar!
 
 <strong>Linux</strong>
 
