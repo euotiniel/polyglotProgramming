@@ -25,7 +25,7 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 4. Para executar o código abra o terminal do VSCode e digite:
 
 ```
-
+go run cifradecesar.go
 ```
 
 Agora você já deve ter o exercício "Criptografia na cifra de César" rodado no seu computador.

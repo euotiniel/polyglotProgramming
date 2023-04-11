@@ -23,7 +23,7 @@ git clone https://github.com/otonielemanuel/polyglotProgramming.git
 4. Para executar o código abra o terminal do VSCode e digite:
 
 ```
-
+go run palindromo.go
 ```
 
 Agora você já deve ter o exercício "Palíndromo" rodado no seu computador.
