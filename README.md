@@ -72,7 +72,7 @@ Para instalar o VSCode no Windows, siga as seguintes instruções:
 
 Quando a instalação estiver concluída, execute o VSCode e você estará pronto para começar a usá-lo.
 
-### Linux (Debian/Ubuntu)
+#### Linux (Debian/Ubuntu)
 
 + Abra um terminal e adicione a chave Microsoft GPG:
 
@@ -101,7 +101,7 @@ sudo apt install code
 
 >Confira sempre o site oficial do VSCode antes de fazer a instalação, pois lá encontrará informações mais específicas e atuais sobre a maneira de instalação.
 
-### masOS
+#### masOS
 
 
 +  Você pode instalar o VSCode no macOS usando o Homebrew, um gerenciador de pacotes para macOS. Para instalar o VSCode usando o Homebrew, abra o Terminal e digite o seguinte comando:
