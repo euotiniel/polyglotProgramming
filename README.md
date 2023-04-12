@@ -116,6 +116,10 @@ brew install --cask visual-studio-code
 
 + Dê um ⭐ no repositório e partilhe com mais pessoas!
 
+## 👍🏾 Ajude a melhorar este projeto
+
+Este repositório foi desenvolvido por mim com grande dedicação e a maioria das instruções foram testadas e comprovadas. No entanto, mesmo com todo o esforço para garantir a qualidade do projeto, reconheço que podem haver erros ou pontos de melhoria. Por isso, convido você a explorar este repositório e, caso encontre qualquer problema ou sugestão, por favor, não hesite em entrar em contato comigo. Estou sempre aberto a críticas construtivas e farei o meu melhor para garantir que o projeto atenda às necessidades dos usuários. Sua contribuição pode ser valiosa para melhorar ainda mais este projeto e torná-lo ainda mais útil para a comunidade de desenvolvedores.
+
 ## 👨🏽‍💼 Créditos
 
 <p>Este repositório foi inicialmente criado pelo Otoniel Emanuel, um estudante de programação e apaixonado por tecnologia. Obviamente com o crescimento da repositório, outras pessoas também daram as suas contribuições.</p>
