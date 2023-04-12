@@ -45,7 +45,7 @@
 
 Para verificar a instalação do node, abra o seu prompt de comando e digite:
 
-```prompt
+```
 node –v
 ```
 
