@@ -112,7 +112,7 @@ brew install --cask visual-studio-code
 
 >Lembre-se de que, depois de instalar o VSCode, você pode personalizá-lo instalando extensões que adicionam recursos específicos para suas necessidades de desenvolvimento. Para instalar extensões, basta acessar o menu "Extensions" no VSCode e procurar a extensão que deseja instalar.
 
-### ⚠️ E não se esqueça
+## ⚠️ E não se esqueça
 
 + Dê um ⭐ no repositório e partilhe com mais pessoas!
 
