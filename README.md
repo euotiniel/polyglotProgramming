@@ -30,25 +30,25 @@ Para este repositório, foram escolhidas 5 linguagens de programação inicialme
 
 Estão listados todos os exercícios resolvidos neste repositório em cada uma das 5 linguagens mencionadas. Fique à vontade para explorar os exercícios, experimentar diferentes abordagens e aprimorar seu conhecimento de programação. Esperamos que esses exercícios sejam úteis e divertidos para você!
 
-+ Fibonacci - Esse exercício envolve escrever um programa que imprime a sequência de Fibonacci até um determinado número.
-
-> Fibonacci é uma sequência numérica em que cada número subsequente é a soma dos dois números anteriores. A sequência começa com 0 e 1, e os próximos números são 1, 2, 3, 5, 8, 13, 21, 34 e assim por diante.
-
-+   Impressão de árvore de asteriscos - Esse exercício envolve escrever um programa que imprime uma árvore de asteriscos em forma de triângulo.
++   Advinhe o número - Esse exercício envolve escrever um programa que gera um número aleatório e permite que o usuário adivinhe qual é esse número.
 
 +   Cálculo de fatorial - Esse exercício envolve escrever um programa que calcula o fatorial de um número.
 
 > Fatorial é um conceito matemático que se refere ao produto de todos os números inteiros positivos consecutivos até um determinado número. O símbolo de fatorial é um ponto de exclamação (!) colocado após o número. Por exemplo, o fatorial de 5 é representado por 5! e é calculado multiplicando todos os números inteiros positivos de 1 a 5, ou seja: 5! = 1 x 2 x 3 x 4 x 5 = 120. O fatorial de 0 é 1 por definição.
 
-+   FizzBuzz: Esse exercício envolve escrever um programa que imprime números de 1 a 100, substituindo os múltiplos de 3 por "Fizz", os múltiplos de 5 por "Buzz" e os múltiplos de ambos por "FizzBuzz".
++  Criptografia - Esse exercício envolve escrever um programa que criptografa ou descriptografa uma mensagem, usando um algoritmo de criptografia específico.
 
-+   Advinhe o número - Esse exercício envolve escrever um programa que gera um número aleatório e permite que o usuário adivinhe qual é esse número.
++ Fibonacci - Esse exercício envolve escrever um programa que imprime a sequência de Fibonacci até um determinado número.
+
+> Fibonacci é uma sequência numérica em que cada número subsequente é a soma dos dois números anteriores. A sequência começa com 0 e 1, e os próximos números são 1, 2, 3, 5, 8, 13, 21, 34 e assim por diante.
+
++   FizzBuzz - Esse exercício envolve escrever um programa que imprime números de 1 a 100, substituindo os múltiplos de 3 por "Fizz", os múltiplos de 5 por "Buzz" e os múltiplos de ambos por "FizzBuzz".
 
 +   Gerador de senhas - Esse exercício envolve escrever um programa que gera uma senha aleatória e a exibe ao usuário.
 
-+   Palíndromo - Esse exercício envolve escrever um programa que verifica se uma palavra é um palíndromo, ou seja, se pode ser lida da mesma forma de trás para frente.
++   Impressão de árvore de asteriscos - Esse exercício envolve escrever um programa que imprime uma árvore de asteriscos em forma de triângulo.
 
-+  Criptografia - Esse exercício envolve escrever um programa que criptografa ou descriptografa uma mensagem, usando um algoritmo de criptografia específico.
++   Palíndromo - Esse exercício envolve escrever um programa que verifica se uma palavra é um palíndromo, ou seja, se pode ser lida da mesma forma de trás para frente.
 
 > Com o passar do tempo e a vossa ajuda, a lista vai crescendo. Você poderão sugerir exercícios que queiram ver resolvidos ou adicionares vocês mesmos.
 
@@ -112,7 +112,9 @@ brew install --cask visual-studio-code
 
 >Lembre-se de que, depois de instalar o VSCode, você pode personalizá-lo instalando extensões que adicionam recursos específicos para suas necessidades de desenvolvimento. Para instalar extensões, basta acessar o menu "Extensions" no VSCode e procurar a extensão que deseja instalar.
 
+### ⚠️ E não se esqueça
 
++ Dê um ⭐ no repositório e partilhe com mais pessoas!
 
 ## 👨🏽‍💼 Créditos
 

@@ -65,7 +65,7 @@ sudo apt-get install ruby-full
 2. Verifique se a instalação foi bem-sucedida, abra um terminal e digite o comando:
 
 ```
-ruby –v
+ruby –-version
 ```
 > Se tudo estiver correto, o terminal retornará a versão do Ruby instalada. Daí é só codar!
 

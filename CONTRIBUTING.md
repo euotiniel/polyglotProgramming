@@ -15,34 +15,31 @@ git commit -am 'Adicionando nova solução para o exercício X em Java'
 4. Faça um push para o branch (git push origin minha-nova-feature).
 5. Crie um novo Pull Request e aguarde o nosso feedback.
 
+### ⚠️ E não se esqueça
+
++ Dê um ⭐ no repositório e partilhe com mais pessoas!
+
 ## Orientações gerais
-+ Por favor, mantenha o código limpo e legível. Utilize nomes de variáveis e funções descritivas e evite códigos muito longos ou complicados.
-+ Adicione comentários relevantes ao código para ajudar outros programadores a entender a sua solução.
-+ Certifique-se de testar a sua solução antes de fazer o commit. Inclua instruções para compilar e executar o seu código em um arquivo README.md na pasta de cada exercício.
-+ Se estiver adicionando um novo exercício, certifique-se de incluir as instruções e informações necessárias para os outros programadores entenderem o que está sendo solicitado.
-+ Se você estiver corrigindo ou otimizando uma solução existente, certifique-se de incluir um comentário detalhando as alterações que foram feitas.
+
++   No caso de uma nova linguagem, siga os padrões de apresentação da linguagem que consta nos arquivos MD, das linguagens e solicite o commit.
++   Por favor, mantenha o código limpo e legível. Utilize nomes de variáveis e funções descritivas e evite códigos muito longos ou complicados.
++   Adicione comentários relevantes ao código para ajudar outros programadores a entender a sua solução.
++   Certifique-se de testar a sua solução antes de fazer o commit. Inclua instruções para compilar e executar o seu código em um arquivo README.md na pasta de cada exercício.
++   Se estiver adicionando um novo exercício, certifique-se de incluir as instruções e informações necessárias para os outros programadores entenderem o que está sendo solicitado.
++   Se você estiver corrigindo ou otimizando uma solução existente, certifique-se de incluir um comentário detalhando as alterações que foram feitas.
 
 ## Linguagens e Exercícios
 
 Nós atualmente suportamos os seguintes exercícios nas seguintes linguagens mencionadas:
 
-+ Fibonacci
-
-+ Impressão de árvore de asteriscos
-
-+ Cálculo de fatorial
-
-+ FizzBuzz
-
-+ Advinhe o número
-
-+ Gerador de senhas
-
-+ Palíndromo
-
-+ Criptografia
-
-+ Converor binário
++   Advinhe o número
++   Cálculo de fatorial 
++   Criptografia 
++   Fibonacci 
++   FizzBuzz
++   Gerador de senhas
++   Impressão de árvore de asteriscos
++   Palíndromo 
 
 Se você deseja adicionar novos exercícios ou uma nova linguagem, fique à vontade para abrir uma nova Pull Request com as suas adições.
 
