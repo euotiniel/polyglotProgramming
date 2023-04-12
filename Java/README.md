@@ -48,7 +48,7 @@ Algumas das áreas em que Java é comumente usada incluem:
 
 ### Windows
 
-Para instalar o Python no Windows, siga os seguintes passos:
+Para instalar o Java no Windows, siga os seguintes passos:
 
 1.	Acesse o <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank">site oficial da Oracle</a> para download do Java.
 
@@ -121,40 +121,34 @@ Isso é tudo! Você agora deve ter o Java instalado em seu sistema. Se você tiv
 
 ## 🔧 VSCode
 
-Tendo o Python instalado na sua máquina, para programar em Python no Visual Studio Code (VSCode), siga os seguintes passos:
+Tendo o Java instalado na sua máquina, para programar em Java no Visual Studio Code (VSCode), siga os seguintes passos:
 
-1. Instale a extensão "Python" no VSCode. Para fazer isso, abra o VSCode e clique no ícone de extensões no lado esquerdo da tela <strong>(ou pressione Ctrl+Shift+X)</strong>. Na barra de busca que aparecer, digite "Python" e pressione Enter. Na lista de extensões que aparecer, clique em "Python" e clique no botão "Install".
+1.  Abra o Visual Studio Code e instale a extensão "Java Extension Pack" para ter todas as extensões necessárias para desenvolvimento em Java.
 
-> Você pode instalar as extenções que achar que o auxiliarão no desenvolvimento em Python.
+2.   Depois de instalar a extensão, abra o painel de extensões no Visual Studio Code (clicando no ícone de cubo no menu lateral esquerdo ou pressionando Ctrl + Shift + X).
 
-2. Crie um novo arquivo Python no VSCode. Para fazer isso, clique em "File" no menu superior, selecione "New File" e salve o arquivo com a extensão '<strong>.py</strong>'. Por exemplo, você pode salvar o arquivo como "index.py".
+3.   Na barra de pesquisa, digite "Java Extension Pack" e selecione a extensão na lista de resultados.
 
-3. Escreva o seu código Python no arquivo criado. Por exemplo:
+4.  Clique no botão "Install" (Instalar) para instalar a extensão.
 
-```python
-print('Hello world!')
+5.  Reinicie o Visual Studio Code após a instalação da extensão.
+
+Crie um projeto Java. Para criar um novo projeto Java no Visual Studio Code, abra o menu "File" (Arquivo), selecione "New" (Novo), e em seguida, selecione "Java Project".
+
+6. Execute o arquivo Java digitando o comando:
+
 ```
-> Este código irá imprimir um "Hello, world!".
-
-4. Salve o arquivo pressionando <strong>Ctrl+S</strong>.
-
-5. Abra o terminal integrado do VSCode pressionando Ctrl+Ç e no terminal integrado, navegue até o diretório onde você salvou o arquivo Python digitando o comando:
-
-```bash
-cd caminho/do/diretorio
+javac index.java
 ```
 
-6. Execute o arquivo Python digitando o comando:
-
-```python
-python index.py
 ```
-
-> Repare que o 'index' é o nome do nosso arquivo Python, você deverá substitui-lo pelo nome do seu arquivo.
+java index
+```
+> Sertifique se de que está na pasta certa. Repare que o 'index' é o nome do nosso arquivo Java, você deverá substitui-lo pelo nome do seu arquivo.
 
 Se tudo estiver correto, o VSCode deve exibir a mensagem "Hello, world!" no terminal.
 
-> agora você sabe como programar em Python no VSCode! É possível configurar várias opções de configuração e depuração no VSCode para tornar o seu processo de desenvolvimento ainda mais fácil e produtivo.
+> Agora você sabe como programar em Java no VSCode! É possível configurar várias opções de configuração e depuração no VSCode para tornar o seu processo de desenvolvimento ainda mais fácil e produtivo.
 
 ## 🌐 Online code
 

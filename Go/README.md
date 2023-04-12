@@ -112,6 +112,19 @@ Com isso, você já terá o Go instalado em seu macOS e poderá começar a usá-
 
 ## 🔧 VSCode
 
+Tendo o Java instalado na sua máquina, para programar em Java no Visual Studio Code (VSCode), siga os seguintes passos:
+
+1.  Abra o Visual Studio Code e instale a extensão "Go" para ter todas as extensões necessárias para desenvolvimento em Go.
+
+2.  Depois de instalar a extensão, abra o painel de extensões no Visual Studio Code (clicando no ícone de cubo no menu lateral esquerdo ou pressionando Ctrl + Shift + X).
+
+3.  Na barra de pesquisa, digite "Go" e selecione a extensão na lista de resultados.
+
+4.  Clique no botão "Install" (Instalar) para instalar a extensão.
+
+5.  Reinicie o Visual Studio Code após a instalação da extensão.
+
+> Agora você sabe como programar em Go no VSCode! É possível configurar várias opções de configuração e depuração no VSCode para tornar o seu processo de desenvolvimento ainda mais fácil e produtivo.
 
 ## 🌐 Online code
 
